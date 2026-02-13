@@ -1,0 +1,470 @@
+/* Order Notes Section */
+.order-notes-section {
+    margin-bottom: 25px;
+}
+
+.order-notes-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.order-notes-label {
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #000;
+    font-size: 14px;
+}
+
+#kam_save_address {
+    margin-bottom: 0;
+}
+
+.order-notes-textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 14px;
+    font-family: inherit;
+    resize: vertical;
+    min-height: 80px;
+    background-color: #fafafa;
+    transition: border-color 0.3s ease;
+}
+
+.order-notes-textarea:focus {
+    outline: none;
+    border-color: #222C40;
+    box-shadow: 0 0 0 2px rgba(0, 115, 170, 0.1);
+}
+
+.order-notes-textarea::placeholder {
+    color: #999;
+    font-style: italic;
+}
+
+.saved-addresses-section {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.saved-addresses-list {
+    margin-top: 10px;
+}
+
+.address-option {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.address-option input[type="radio"] {
+  margin-right: 10px;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border: 1px solid #1b2434;
+  background-color: white;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.address-option input[type="radio"]:checked {
+  background-color: #222C40;
+  border-color: #222C40;
+}
+
+.address-option input[type="radio"]:checked::after {
+  content: '';
+  position: absolute;
+  top: 1px;
+  left: 5px;
+  width: 6px;
+  height: 10px;
+  border: solid white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+}
+
+.address-option label {
+    cursor: pointer;
+    display: block;
+    margin-bottom: 0;
+    flex: 1;
+}
+
+.address-option input[type="radio"]:checked + label {
+    font-weight: bold;
+    color: #222C40;
+}
+
+.unified-address-notice {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #e8f4f8;
+    border: 1px solid #bee5eb;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.unified-address-applied {
+    padding: 10px;
+    background-color: #d4edda;
+    border: 1px solid #c3e6cb;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    color: #155724;
+    text-align: center;
+}
+
+.address-fields-toggle .woocommerce-billing-fields__field-wrapper {
+    margin-top: 15px;
+}
+
+/* Hide shipping section in unified mode */
+.woocommerce-shipping-fields {
+    display: none !important;
+}
+
+/* Address Selection Popup */
+#kam-address-checkout-popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 9999;
+    overflow-y: auto;
+}
+
+#kam-address-checkout-popup .saved-addresses-section {
+    position: relative;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 50px 30px 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    animation: popupSlideIn 0.3s ease-out;
+}
+
+#kam-address-checkout-popup .kam-address-popup-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    z-index: 10;
+    padding: 0;
+    margin: 0;
+    height: 40px;
+    width: 40px;
+    min-height: unset;
+    line-height: 40px;
+}
+
+@keyframes popupSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.kam-address-selected {
+    display: flex;
+    align-items: start;
+    margin-bottom: 20px;
+}
+
+.kam-address-selected-location {
+    width: 24px;
+    height: 24px;
+    margin-right: 12px;
+    flex-shrink: 0;
+}
+
+.kam-address-selected-content {
+    flex: 1;
+}
+
+.kam-address-selected-content span {
+  color: #888888;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  font-size: 14px;
+}
+
+.kam-address-selected-content p {
+    margin: 0;
+    line-height: 1.4;
+}
+
+.kam-address-selected-content p:first-child {
+    font-weight: 600;
+    color: #333;
+}
+
+.kam-address-selected-content p:last-child {
+    color: #666;
+    font-size: 14px;
+}
+
+.kam-address-selected-action {
+    display: flex;
+    align-items: center;
+}
+
+.kam-address-selected-edit {
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.kam-address-selected-edit img {
+    width: 100%;
+    height: 100%;
+}
+
+/* Prevent body scroll when popup is open */
+body.popup-open {
+    overflow: hidden;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    #kam_save_address {
+        display: flex;
+        flex-direction: column;
+        gap: 0;
+    }
+
+    #kam_save_address .address-form__group {
+        margin-bottom: 0;
+    }
+
+    .woocommerce-checkout #kam-address-checkout-popup .address-form__submit {
+        margin-top: 15px;
+    }
+
+    .order-notes-section {
+        padding: 12px;
+    }
+    
+    .order-notes-section h3 {
+        font-size: 16px;
+    }
+    
+    .order-notes-textarea {
+        padding: 10px;
+        font-size: 14px;
+    }
+    
+    .saved-addresses-section {
+        padding: 10px;
+    }
+    
+    .address-option {
+        padding: 8px;
+    }
+    
+    .address-option label {
+        font-size: 14px;
+        margin-left: 20px;
+    }
+    
+    .unified-address-notice,
+    .unified-address-applied {
+        padding: 8px;
+        font-size: 14px;
+    }
+    
+    #kam-address-checkout-popup .saved-addresses-section {
+        margin: 20px;
+        max-width: none;
+    }
+    
+    .kam-address-selected {
+        padding: 12px;
+    }
+    
+    .kam-address-selected-content p {
+        font-size: 14px;
+    }
+    
+    .kam-address-selected-edit {
+        width: 28px;
+        height: 28px;
+    }
+    
+    .kam-address-selected-edit img {
+        width: 14px;
+        height: 14px;
+    }
+}
+
+#kam-address-checkout-popup .address-form__submit {
+  text-transform: none;
+  font-weight: 500;
+  max-width: max-content;
+  margin: 0 auto;
+  border-radius: 0;
+  padding: 5px 40px;
+}
+
+.cart-item-price .price-reduced,
+.cart-item-price .price-reduced bdi, 
+.cart-item-price .price-reduced bdi span {
+    font-size: 14px;
+}
+
+/* Invoice Popup Overlay */
+.invoice-popup {
+  display: none;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.35);
+  align-items: center;
+  justify-content: center;
+}
+
+/* Invoice Popup Content */
+.invoice-popup-content {
+  background: #fff;
+  padding: 28px 24px;
+  border-radius: 8px;
+  max-width: 400px;
+  width: 90%;
+  margin: 0;
+  position: relative;
+}
+
+/* Close Button */
+.invoice-popup-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 22px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  margin: 0;
+}
+
+/* Popup Title */
+.invoice-popup-title {
+  margin-top: 0;
+  font-size: 20px;
+}
+
+/* Invoice Field */
+.invoice-field {
+  margin-bottom: 10px;
+}
+
+/* Invoice Input */
+.invoice-input {
+  width: 100%;
+}
+
+/* Done Button */
+.invoice-popup-done {
+    margin: 0;
+    width: max-content;
+    background: var(--primary-color);
+    color: #fff;
+    border: none;
+    padding: 5px 50px;
+    text-transform: none;
+    font-size: 16px;
+    margin-right: 0;
+    display: none;
+}
+
+.wc_payment_methods {
+    display: flex;
+    gap: 10px;
+}
+#wrapper .wc_payment_methods li {
+    padding: 0;
+    border: 0;
+}
+
+.wc_payment_methods input[type="radio"] {
+    display: none;
+}
+
+.wc_payment_methods label {
+    cursor: pointer;
+}
+
+.payment_box {
+    display: none !important;
+}
+
+#wrapper .thankyou-order-info {
+    padding: 0;
+    background: transparent;
+    box-shadow: none;
+    margin-bottom: 25px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wrapper .thankyou-order-info ul {
+    list-style: none;
+    margin-left: 0;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#wrapper .thankyou-order-info ul li {
+    margin: 0;
+    font-size: 20px;
+}
+
+#wrapper .thankyou-order-address {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wrapper .thankyou-order-review {
+    padding: 0;
+    border: none;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thankyou-order-header {
+    text-align: center;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thankyou-order-header img {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,6 @@
+# WordPress generated content
+src/wp-content/uploads/
+src/wp-content/ai1wm-backups/
+src/wp-content/backup*/
+*.wpress
+*.mp4

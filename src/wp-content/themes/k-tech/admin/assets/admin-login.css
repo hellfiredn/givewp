@@ -1,0 +1,163 @@
+
+:root {
+    --main: #000;
+  
+    --main-black: #000;
+    --fe-white: #fff;
+    --fe-yellow: #da8314;
+    --main-blue: #0213b0;
+    --main-red: #ff0003;
+  }
+  
+  .text-none {
+    text-decoration: none !important;
+  }
+  
+  body {
+    font-family: "Nocodevn", sans-serif;
+    height: auto !important;
+    background: #000c1e;
+  }
+  
+  #login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    padding: 2rem 0;
+  }
+  
+  .login .wp-login-logo a {
+    display: none;
+  }
+  
+  .login .back-to-site {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1.1rem;
+    color: var(--fe-white);
+    font-weight: 500;
+  }
+  
+  .login .back-to-site img {
+    filter: brightness(0) invert(1);
+    width: 1rem;
+    height: 1rem;
+  }
+  
+  .login .back-to-site span {
+    line-height: 1;
+  }
+  
+  .login form {
+    display: flex;
+    flex-direction: column;
+    width: 35rem;
+    padding: 30px 30px;
+    margin-top: 12.5rem;
+    float: none;
+    background: var(--fe-white);
+    border-radius: 10px;
+    border: none;
+    background: hsla(0, 0%, 100%, 0.01);
+    box-shadow: 0 0 11px -5px rgba(123, 175, 253, 0.1),
+      inset 0 0 20.9px 5px rgba(123, 175, 253, 0.06),
+      inset 0 0 8.8px 4px rgba(123, 175, 253, 0.2),
+      inset 0 0 30px 10px rgba(123, 175, 253, 0.13);
+  }
+  
+  .login form .title-login {
+    color: var(--fe-white);
+    margin-bottom: 1.25rem;
+  }
+  
+  .login .user-pass-wrap {
+    margin-bottom: 1rem;
+  }
+  
+  .login form .input {
+    background: hsla(0, 0%, 100%, 0.01);
+    box-shadow: 0 0 11px -5px rgba(123, 175, 253, 0.1),
+      inset 0 0 20.9px 5px rgba(123, 175, 253, 0.06),
+      inset 0 0 8.8px 4px rgba(123, 175, 253, 0.2),
+      inset 0 0 30px 10px rgba(123, 175, 253, 0.13);
+    height: 3rem;
+    border: none;
+    padding: 0 20px;
+    width: 100%;
+    border-radius: 5px;
+    color: var(--fe-white) !important;
+    float: none;
+    font-size: 13px;
+    margin: 10px 0px;
+  }
+  
+  .login form input:focus {
+    box-shadow: 0 0 18.6px -5px rgba(123, 175, 253, 0.13),
+      inset 0 0 5px 1px #7baffd, inset 0 0 15px 4px rgba(123, 175, 253, 0.2),
+      inset 0 0 80px 10px rgba(123, 175, 253, 0.1);
+  }
+  
+  .login form label {
+    font-size: 1rem;
+    color: var(--fe-white);
+  }
+  
+  .login .notice {
+    font-size: .95rem;
+    color: var(--fe-yellow);
+    order: 3;
+    border: none;
+    background: transparent;
+    box-shadow: none;
+    padding: 1rem 0 0;
+    margin: 0;
+  }
+  
+  .login .notice strong {
+    color: var(--fe-yellow);
+    font-weight: 600;
+  }
+  
+  
+  .login #backtoblog,
+  .login .privacy-policy-page-link,
+  .language-switcher {
+    display: none;
+  }
+  
+  .login .button.wp-hide-pw {
+    top: 10px;
+  }
+  
+  
+  .login .submit input {
+    margin: 0;
+    padding: 15px 0;
+    color: var(--fe-white);
+    border-radius: 1.5rem;
+    border: none;
+    width: 10rem;
+    font-size: 1rem;
+    height: 2.75rem;
+    background: var(--fe-yellow);
+  }
+  
+  .login .user-pass-wrap .button {
+    color: var(--fe-white);
+    border: none !important;
+    box-shadow: none !important;
+  }
+  
+  
+  
+  
+  
+  @media only screen and (max-width: 1727px) {
+    .login form {
+      margin-top: 7rem;
+    }
+  }
+  

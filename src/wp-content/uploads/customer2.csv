@@ -1,0 +1,498 @@
+Tên,SĐT,Email,Số CCCD,Ngày cấp,Nơi cấp,Giới tính,Loại tk ,Trạng thái active,Mã giới thiệu,Người giới thiệu,Ngày sinh
+Pham Cao,0987654321,test11@gmail.com,111111111111111,2025-12-02,Cao Viên,Other,Master,Inactive,membership,masterlv1,2003-10-10
+Master,,master@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,master,masterlv1,0000-00-00
+H2Y,,info@h2yjsc.com,NULL,NULL,NULL,NULL,Master,Inactive,GIVE0001,NULL,0000-00-00
+NGUYỄN,0358915834,ngocnguyen1807.work@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,rosy1111,Give001,0000-00-00
+Minh,0773371909,a@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0773371909,SAIGON06,0000-00-00
+Anh Hạnh,0918335439,Hanhhq@gmail.com,NULL,NULL,NULL,Male,Master,Active,H2Y888,SAIGON06,0000-00-00
+YEN01,2222,2@GMAIL.COM,NULL,NULL,NULL,NULL,Master,Inactive,YEN01,SAIGON06,0000-00-00
+VUTHAO01,4444,444@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,VUTHAO01,SAIGON06,0000-00-00
+Ngọc H2Y,5555,555@GMAIL.COM,NULL,NULL,NULL,NULL,Master,Inactive,NGOC01,SAIGON06,0000-00-00
+NL01,66666,6@GMAIL.COM,NULL,NULL,NULL,NULL,Master,Inactive,NL01,SAIGON06,0000-00-00
+Rosy Posy,12345678,posy@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,posy,SAIGON06,0000-00-00
+Cao Lê Minh Chánh,0984476534,Chanhclm@h2yjsc.com,NULL,NULL,NULL,NULL,Master,Inactive,0984476534,SAIGON06,0000-00-00
+Bùi Thị Nhàn,0918226809,nhanbt@h2yjsc.com,NULL,NULL,NULL,NULL,Master,Inactive,0918226809,SAIGON06,0000-00-00
+Bùi Nguyên Thanh Chi,0919537550,buinguyenthanhchi@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,CINDYBUI,SAIGON06,0000-00-00
+Hoàng Thi Yến Nhi,0902722577,hr@h2yjsc.com,NULL,NULL,NULL,NULL,Master,Inactive,NHIP&C,SAIGON06,0000-00-00
+Võ Quốc Hưng,0867076717,doitac.hp@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0867076717,SAIGON06,0000-00-00
+Đoàn Anh Đào,0364105020,anhdao1111@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,anhdao1111,rosy1111,0000-00-00
+Bùi Nguyên Thanh Chi,0919537551,chibnt@h2yjsc.com,NULL,NULL,NULL,NULL,Master,Inactive,CHIBUI,SAIGON06,0000-00-00
+Nguyễn Thị Hoàng Ánh,0944851851,hoanganhskinology@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0944851851,NL01,0000-00-00
+Phan Minh Thiện,0377766588,thienphan.retail@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,rysphan,SAIGON06,0000-00-00
+Lê Thị Diệu Linh,0968484503,ldieulinh87@gmail.com,4187002433,2022-01-20,cục trưởng cục cảnh sát quản lí hành chính về trật...,Female,Master,Active,DieuLinh87,SAIGON06,0000-00-00
+lương trần tố uyên,0973480756,uyenluong107@gmail.com,51190003691,2021-04-28,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LY HÀNH CHINH VỀ TRÁT...,Female,Master,Active,0973480756,0939635497,1990-07-10
+Huỳnh Quốc Tính,0948021208,tinhhuynh1208@gmail.com,96093001328,2022-12-14,Bộ công an TPHCM Quận 4,Male,Master,Active,Harrishuynh,H2Y888,1993-08-12
+Vũ Lê Minh Phương,0942850082,vlmphuong@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0942850082,NL01,0000-00-00
+Cao thị liên,0974006029,junsocao@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0974006029,NL01,0000-00-00
+Đỗ Thị Phương Thảo,0932448381,do.thao412@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,BUNNY2024,SAIGON06,0000-00-00
+Liễu Minh Duy,073539777,duylm@h2yjsc.com,NULL,NULL,NULL,NULL,Master,Inactive,0763539777,SAIGON06,0000-00-00
+Trang Ngọc Linh,0905798228,Linhtrang410@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Linh Trang,Dieulinh87,0000-00-00
+Đặng Hoài Thu,0846586666,Thudang020387@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Thudang87,Dieulinh87,0000-00-00
+Vũ Kim Anh,0902202284,vukimanh3012@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0902202284,Vuthao01,0000-00-00
+Doan Thi Tra My,36302229573,girl.nong.bong9002@gmail.com,25189006605,2023-09-26,Cục trưởng cục cảnh sát quản lí hành chính về trật...,Female,Master,Active,Csimy,DieuLinh87,1989-04-10
+KIỀU DUY ĐỊNH,0971152781,dautulathang8889@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Vietnam,0964502526,0000-00-00
+NGUYỄN THỊ NINH,0985131285,dinhrich1981@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Hanoi,Vietnam,0000-00-00
+Nguyễn Như Quỳnh,0979614194,banmaixanh.quynh@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0979614194,SAIGON06,0000-00-00
+Hà Thanh Nam,0978247199,drhathanhnam.pttm@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0978247199,SAIGON06,0000-00-00
+Nguyễn Ngọc Hiền,0986226666,ngochien121291@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0986226666,SAIGON06,0000-00-00
+Đậu Thuỳ An,0886808998,anbon2419941111@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0886808998,SAIGON06,0000-00-00
+Nguyễn Thị Quỳnh Trang,0948689090,quynhtrang211190@gmail.com,1190007896,2021-11-22,Hà Nội,Female,Master,Active,pharmeshub,Harrishuynh,1990-11-21
+Trần Thị Thanh Xuân,0961507210,thahxuan410@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0961507210,NULL,0000-00-00
+Âu Thị Hường,0387994381,Huongkthanoi@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Âu Hường,Hanoi,0000-00-00
+Từ Ngọc Bội,0902707808,ngocboitu@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Inactive,0902707808,0964502526,0000-00-00
+Minh,0773371999,actionforthefuture@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,Test_001,H2Y888,0000-00-00
+Đinh Phương Anh,0969541231,Anadinh1191@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,Anadinh,pharmeshub,0000-00-00
+Hà Nguyên,0922222222,hh@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0922222222,NULL,0000-00-00
+Kiều Nga,0964904933,khongco@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Inactive,KIEU NGA,SAIGON06,0000-00-00
+Jangeunkyung,0793734961,eunk1217@naver.com,M91069316,2017-07-24,Hàn Quốc,NULL,Master,Active,bebe_gg,H2Y888,0000-00-00
+Phạm Đình Tiến,0916866919,phamdinhtien005@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0931472333,H2Y888,0000-00-00
+Lê Thu Trang,0934624693,tracytrang93@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Trangle93,H2y888,0000-00-00
+Nguyễn Thị Linh Chi,0902470196,lchii.2708@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0902470196,SAIGON06,0000-00-00
+Đào Thị Yến Nhi,0941534646,daothiyennhi98@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,LaylaPI,SAIGON06,0000-00-00
+Nguyễn Hồng Nhung,0943399095,hnhung.9095@gmail.com,1195011152,2000-11-04,Cục cảnh sát Quản lý hành chính về trật tự xã hội,Female,Master,Active,0943399095,90SSKIN,1995-09-13
+Lê Ngọc Vân Anh,61411383782,lengocvananh2200@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,VANANH,SAIGON06,0000-00-00
+Trần Phương Nhi,0988489838,Tphuongnhi3012@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0988489838,DieuLinh87,0000-00-00
+Trần Thị Thuý An,0973102728,An.ttt@vietinbank.vn,NULL,NULL,NULL,NULL,Pharmer,Active,0973102728,DieuLinh87,0000-00-00
+Nguyễn Thị Hồng Thơm,0919627466,minhnhatvmu@gmail.com,40188037233,2021-05-10,Cục trưởng cục cảnh sát quản lí hành chính về trật...,Female,Master,Active,0919627466,DieuLinh87,1988-05-28
+Lê Nữ Hoàng Vy,0942681012,Lenuhoangvy97@gmail.con,NULL,NULL,NULL,NULL,Pharmer,Active,0942681012,LaylaPI,0000-00-00
+Phạm Thị Ánh Ngọc,0909842553,ngocpham216@gmail.com,75188014109,2022-08-19,Cục trưởng cục cảnh sát,Female,Master,Active,Annie Pham,SAIGON06,1988-06-21
+test,0702758695,kytran273@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,test,DieuLinh87,0000-00-00
+NGUYEN NHAT TIEN,0889844596,nhattien2005@naver.com,NULL,NULL,NULL,NULL,Master,Inactive,0889844596,DieuLinh87,0000-00-00
+Đỗ thị thuỳ nhân,0903548455,thuynhan0205dn@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0903548455,DieuLinh87,0000-00-00
+Trần Thị Hồng Lộc,0906467800,colenibeautyclinic@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0906467800,DieuLinh87,0000-00-00
+Trần Thị Ca Ty,0376586927,Caty24062000@gmail,NULL,NULL,NULL,NULL,Master,Inactive,Thạch Thảo,DieuLinh87,0000-00-00
+Trịnh Thị Minh Hiền,0855099948,Trinhthiminhhien121189@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0855099948,DieuLinh87,0000-00-00
+Hồ Thanh Hằng,0935567994,Phongnguyenqn@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0935567994,DieuLinh87,0000-00-00
+Nguyễn Thị Phượng,0905979814,Nguyenthiphuongqb2108@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0905979814,DieuLinh87,0000-00-00
+Cù Thảo Vy,0914992425,Thaovy1602.pharm@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0914992425,DieuLinh87,0000-00-00
+DO THI MINH LY,0862887595,Lydo.26082006@gamil.com,NULL,NULL,NULL,NULL,Master,Inactive,0862887595,DieuLinh87,0000-00-00
+Đỗ Thị Diễm Hằng,0362737063,Doh719947@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0362737063,DieuLinh87,0000-00-00
+Nguyễn Thị Ngọc Dung,0398725359,nguyenngocdunghqt@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0398725359,DieuLinh87,0000-00-00
+Lê Thị Phương Anh,0853383085,Phuonganhihihaha30@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0853383085,DieuLinh87,0000-00-00
+Nguyễn thị hoàng mỹ,0905703653,hoangmydn@yahoo.com,NULL,NULL,NULL,NULL,Master,Inactive,0905703653,DieuLinh87,0000-00-00
+Trần thị kim hoa,0905459253,Info@h2yj.com,NULL,NULL,NULL,NULL,Master,Inactive,0905459253,DieuLinh87,0000-00-00
+Hoàng thị kim liên,0334468831,Hoangkimlien3773@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0334468831,DieuLinh87,0000-00-00
+Thanh Dịp Nguyễn,0934727766,thanhdip.nguyen2503@gmail.con,NULL,NULL,NULL,NULL,Master,Inactive,0934727766,DieuLinh87,0000-00-00
+Lưu Thị Hằng,0972096154,quynhnganobi1964@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0972096154,DieuLinh87,0000-00-00
+Ngô Thị Thuận,0985013191,Thuanminh1195@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0985013191,DieuLinh87,0000-00-00
+Lê Nguyễn Thị Mỹ Trinh,0905644616,lemytrinh261192@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0905644616,DieuLinh87,0000-00-00
+Nguyen thanh hong,0905744475,Nguyenthanhhong.11qh1@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0905744475,DieuLinh87,0000-00-00
+VO THI LY NA,0899888598,Alyna23111996@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0899888598,DieuLinh87,0000-00-00
+Hoàng thị hiền,0963731356,hoanghien.jolly@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0963731356,DieuLinh87,0000-00-00
+Võ Thị Kìm Uyên,0788616660,Uvo1501@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0788616660,DieuLinh87,0000-00-00
+Nguyễn Thị Thanh Thảo,0916811119,Duyen.nguyen.vtp@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0916811119,DieuLinh87,0000-00-00
+Nguyễn Cửu Quỳnh Như,931973779,nguyencquynhnhu@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,931973779,DieuLinh87,0000-00-00
+Phạm Thị Thanh Huyền,0904751779,huyenlighting89@gmail.com,40189025462,2022-08-05,CA Nghệ An,Female,Master,Active,Huyenpham,SAIGON06,1989-07-17
+Lê thị tiểu giang,0333796776,giang19081991@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0333796776,DieuLinh87,0000-00-00
+Đỗ Thị Huyền Trinh,0905543938,dohuyentrinh88@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0905543938,DieuLinh87,0000-00-00
+Tuyết Nguyễn,0982559771,Minhtuyet278.dn@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0982559771,DieuLinh87,0000-00-00
+Nguyễn thị kim nga,0905468889,Thiennga1303@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0905468889,DieuLinh87,0000-00-00
+Đào thị kim ly,0905291916,Daothikimly1992@gmai.com,NULL,NULL,NULL,NULL,Master,Inactive,0905291916,DieuLinh87,0000-00-00
+Nguyễn Thị My Sa,0971999401,mysa12mnbm@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0971999401,DieuLinh87,0000-00-00
+Đỗ Thị Tố Nữ,0905242572,tonu239@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0905242572,DieuLinh87,0000-00-00
+Kiều Loan,0948481242,kieuloan242@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0948481242,DieuLinh87,0000-00-00
+CHÂU THỊ THU DIỂM,0968705144,Chauthithudiem196@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0968705144,DieuLinh87,0000-00-00
+Nguyễn Thị Thu Thảo,0948527282,nttt3108003@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0948527282,DieuLinh87,0000-00-00
+Trương Trần Thảo Chi,0901456763,Thaochi24@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0901456763,DieuLinh87,0000-00-00
+Nguyễn Hoài Mỹ Lộc,0935757384,loc.nhm@doji.vn,NULL,NULL,NULL,NULL,Master,Inactive,0935757384,DieuLinh87,0000-00-00
+PHAN THỊ THU THÚY,0935718438,mrsthuthuy91@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0935718438,DieuLinh87,0000-00-00
+Nguyễn Thị Quang Linh,0868094688,Yogadienchau2021@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0868094688,DieuLinh87,0000-00-00
+Phan thị thanh kiều,0941436710,phanhthithanhkieu@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0941436710,DieuLinh87,0000-00-00
+Nguyễn Thị Phượng,0762789568,Nhatphuongnailsbox@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0762789568,DieuLinh87,0000-00-00
+Nguyen Thi Lien,0888396909,Nguyenlien.skinlab@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0888396909,NL01,0000-00-00
+Lê Văn Tây,0905268186,letay1515@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0905268186,Harrishuynh,0000-00-00
+LÊ THỊ THU TRANG,0964330210,the90sskin1@gmail.com,31190012351,2022-09-26,Cục Trưởng Cục Cảnh Sát Quản Lý Hành Chính Trật Tự...,Female,Master,Inactive,90SSKIN,SAIGON06,1990-09-11
+Veronica Vo,18083970597,vy.lkvo@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Veronica,SAIGON06,0000-00-00
+Trang Ngọc Hiền,0939635497,tranghien96@gmail.com,79190006211,2021-12-22,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,Female,Master,Active,0939635497,90SSKIN,1990-06-09
+Nguyễn Thị Ngọc Huyền,0972955555,ngoc.huyen955555@gmail.com,1195039155,NULL,NULL,NULL,Master,Inactive,0972955555,90SSKIN,0000-00-00
+Phạm Thị Hồng Loan,0975823633,loanpham8290@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0975823633,90SSKIN,0000-00-00
+NGUYỄN HOÀNG NAM,0933712128,munfamily2022@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0933712128,0939635497,0000-00-00
+Lê Ngọc Nam,0941168881,lennam2009@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,DORIS79,H2Y888,0000-00-00
+nguyễn thảo nhi,0768973126,thaonhi14071994@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,chloe94,90sskin,0000-00-00
+Mai Vy Khuyên,09033829297,khakimmai91@hotmail.com,NULL,NULL,NULL,NULL,Master,Inactive,KhaMai,90sskin,0000-00-00
+Lê Diệu Linh,0906271706,linhle@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0906271706,90sskin,0000-00-00
+Lê Thu Phương,0975965489,Subi110489@gmail.com,1189026144,2021-07-24,Cục trưởng cục cảnh sát quản lý hành chính về trật...,Female,Master,Active,0975965489,90SSKIN,1989-04-11
+Trần Nguyễn Ngọc anh,0968946738,Trangle119@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Katie,90sskin,0000-00-00
+su truong,096433021,trangle@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,sutruong,90sskin,0000-00-00
+Le Dieu Linh,906271706,nqgroup.vn@gmail.com,1192007469,2021-12-18,Cục cảnh sát quản lý hành chính về trật tự xã hội,Female,Master,Active,seulbeauty,90sskin,1992-07-17
+Trần nhật linh,0986827038,Headspahanoi@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Inactive,0986827038,0975965489,0000-00-00
+Hoàng Minh Thắng,0907909404,hmt1487@gmail.com,NULL,NULL,NULL,NULL,Master,Active,HAI999,H2Y888,0000-00-00
+Lê Huỳnh Minh Hiếu,0933654835,lehieu.xhnv@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,LeHieu835,H2y888,0000-00-00
+Phạm Trọng Điều,0938793919,me.dieupham@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Dieu793919,H2y888,0000-00-00
+Phan Thị Việt Hà,0915232567,Phanthivietha7274@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,ANNHIEN-VH,Huyenpham,0000-00-00
+Nguyễn Vũ Quỳnh Anh,0978002002,nguyenvuquynhanh110@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Quynhanh,Annie Pham,0000-00-00
+Lê Thu Trang,0562768686,tranglt1331@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,LETRANG13,H2Y888,0000-00-00
+MariaTrinh,6693332833,Thuytrinh2833@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,MariaTrinh,SAIGON06,0000-00-00
+Tôn Nữ Cẩm Châu,0902323092,Jennyc2709@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Jenny279,H2Y888,0000-00-00
+Lê Thúy Quỳnh,0366694405,tunticlothes@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Wolha,pharmeshub,0000-00-00
+Nguyễn Thị Thùy Dung,0364247668,dungntt19@gmail.com,1193030030,2021-06-28,Ca tphn,Female,Master,Active,BeautybyD,pharmeshub,1993-06-19
+Chị Trâm,0984056789,tram@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,hanah,90sskin,0000-00-00
+Nông Ngọc Minh Châu,0363985608,Minhngocchau0411@gmail.com,66300015097,2021-08-10,Cục trưởng cục cảnh sát quản lí hành chính về trật...,Female,Master,Active,0363985608,DieuLinh87,2000-11-04
+Nguyen Thi Mai Phuong,0962072695,callabeauty@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Calla,90sskin,0000-00-00
+BÙI THỊ MỸ DIỆU,0777779066,buidieu07061999@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,MyDieu23,SAIGON06,0000-00-00
+Spa Minh Ánh,0962183779,Truonghai040987@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,MINHANH,HuyenPham,0000-00-00
+Phạm Bảo Ngọc,0935196946,Phambaongochihihi@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Bao Ngoc,Annie Pham,0000-00-00
+Mai Thảo,0908196088,imnh0130@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,maithao,bebe_gg,0000-00-00
+asd,828671855,matnfdsf6@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Inactive,test1,uio,0000-00-00
+phan phi long,0916144141,thombeo285@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0916144141,0919627466,0000-00-00
+Phạm Cao Test,0943399095a,a11111dmin@site.com,NULL,NULL,NULL,NULL,Pharmer,Active,0943399095a,H2YHCM,0000-00-00
+Châu Thị Kim Tín,0913759218,Tin.chau@fvhospital.com,NULL,NULL,NULL,NULL,#N/A,Active,TIN102,H2Y888,0000-00-00
+Đinh Thảo Nguyên,0935444923,dinhthaong@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,DTN25,H2Y888,0000-00-00
+Yachio Nguyen,0968273168,linhclinic@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Linhclinic,90sskin,0000-00-00
+Ngô Hoàng Vũ,0944850082,ngohoangvu9919@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0944850082,SAIGON06,0000-00-00
+Pharmer Affiliate,0816664589,kevin@h2yjsc.com,NULL,NULL,NULL,NULL,Pharmer,Active,Pharmer888,H2Y888,0000-00-00
+Ma Thị Thảo Linh,0971333161,thaolinhls95@gmail.com,20195009083,2010-12-28,Công an Lạng Sơn,Female,Master,Active,Korei,pharmeshub,1995-04-08
+Nguyễn Vũ Mạnh Khương,0374920655,manhkhuong0001@gmail.com,56201010408,NULL,NULL,NULL,Pharmer,Active,0374920655,H2Y888,0000-00-00
+Đinh Khắc Bảo,0946836067,baodk313@gmail.com,1093046902,NULL,NULL,NULL,Pharmer,Active,baodk,H2Y888,0000-00-00
+Nguyễn Hoàng Hiếu,0904565936,hoanghieu0195@gmail.com,75095016596,NULL,NULL,NULL,Pharmer,Active,0904565936,H2Y888,0000-00-00
+vu thi lan,0968635226,Lantuan68@gmail.com,24190006406,2022-04-26,Cục Cảnh Sát Quản Lý Hành Chính Về Trật Tự Xã Hội,Female,Master,Active,vuthilan,90sskin,1990-02-15
+Lê Hà Huyền Trang,0963233186,huyentrangleha.spa@gmail.com,38192010278,2021-06-28,Cục trưởng cục cảnh sát,Female,Master,Active,Changclinic,pharmeshub,1992-06-19
+Nguyễn Thị Thuỷ,0949530883,duongsinhanduoc@gmail.com,38183000865,2024-09-20,Công An Tp Hà Nội,Female,Master,Active,0949530883,DieuLinh87,1983-08-18
+Ngô Mai Phương,0568568558,Ngomaiphuongpharmes@gmail.com,30193012523,NULL,NULL,NULL,Master,Active,0568568558,SAIGON06,0000-00-00
+Nguyễn Ngọc Lan Anh,0969625159,lananhngoc0610@gmail.com,66199012593,NULL,NULL,NULL,Master,Inactive,Ngọc Lan Anh,DieuLinh87,0000-00-00
+Lưu Thị Hoài Thu,0961619392,luuhailam.lam@gmail.com,19192000068,2021-08-19,Hà Nội,Female,Master,Active,Liuhlam,pharmeshub,1992-01-12
+Lê Thị Gấm,0934418118,liuhlamoffice@gmail.com,123456789,NULL,NULL,NULL,Pharmer,Active,0934418118,Liuhlam,0000-00-00
+Lưu Thị Hoài Trang,0833393886,trangluufitness@gmail.com,19195006479,2022-04-14,Cục QLHC TTXH,Female,Master,Active,LuuTrang,Liuhlam,1995-10-04
+Vo Truc Linh,0965852686,votruclinh6886@gmail.com,64192001943,2021-04-13,Gia lai,Female,Master,Active,DihanBeauty,DieuLinh87,1992-03-25
+Trần Thị Thuỳ Linh,0336285939,Pharmifylab@gmail.com,19300002487,NULL,NULL,NULL,Master,Inactive,ThuyLinh,0568568558,0000-00-00
+Nhã Spa,0964021237,nhaspa123@gmail.com,964021237,NULL,NULL,NULL,Master,Inactive,nhaspa,NULL,0000-00-00
+Ms Nga,0938882482,msnga@gmail.com,123456789,NULL,NULL,NULL,Master,Inactive,msngacherry,90SSKIN,0000-00-00
+Lê Tuyền,0938740750,haiaanh21986@gmail.com,123456788,NULL,NULL,NULL,Master,Inactive,LeTuyen,SAIGON06,0000-00-00
+Nguyễn Thị Thanh Linh,0902902107,thanhlinhnguyen0705@gmail.com,902902107,NULL,NULL,NULL,Master,Inactive,ThanhLinh,SAIGON06,0000-00-00
+Lê Ngọc Trường,0934518701,ngoctruong.le86@gmail.com,1086030268,NULL,NULL,NULL,Master,Inactive,0934518701,0943399095,0000-00-00
+Trần Huyền Trang,0919107339,9skinaesthetic@gmail.com,1187011046,2023-07-04,cục cảnh sát quản lý hành chính về trật tự xã hội,Female,Master,Active,0919107339,DIEULINH87,1987-06-20
+Phạm Quỳnh Chi,0888564000,Qchii.198@gmail.com,1198019790,NULL,NULL,NULL,Master,Inactive,DihanBeautyclinic,DihanBeauty,0000-00-00
+nguyễn thị nhâm,0985546132,nguyennhamcosmetic@gmail.com,38193024447,2023-11-10,Thanh hoá,Female,Master,Active,nguyennham,pharmeshub,1993-02-05
+Ngô Thị Thu Hằng,0981363333,thuhang8992@gmail.com,27192012004,NULL,NULL,NULL,Master,Inactive,Mimi,pharmeshub,0000-00-00
+Nguyễn Thị Phương,0915116564,Ms.phuong0819@gmail.com,1190028775,2022-08-04,Hà Nội,Female,Master,Active,0915116564,0568568558,1990-08-19
+Nghi Thị Quỳnh,0974432508,cogiaosuachua@gmail.com.vn,27187003477,2021-04-25,Cục trưởng cục cảnh sát quản lý hành chính về trật...,Female,Master,Active,Quynhnghi,pharmeshub,1987-05-10
+Nguyễn Thị Hiền,0903201100,hienntt.1980@gmail.com,123456789123,NULL,NULL,NULL,Pharmer,Active,Hienkeu,pharmeshub,0000-00-00
+Vũ Mai Anh,0943673333,Maianh_227@yahoo.com.vn,33197002110,2021-04-25,Cục cảnh sát Việt Nam,Female,Master,Active,0943673333,0568568558,1997-07-22
+Hoàng Thị Phương Anh,0398842098,phuonganh@gmail.com,398842098,NULL,NULL,NULL,Master,Active,Hoangthiphuonganh,90sskin,0000-00-00
+Trương Thị Nhung,0869288328,truongnhungthdongvan@gmail.com,26191013451,2021-07-03,Cục cảnh sát,Female,Master,Active,Nhungspa,pharmeshub,1991-05-20
+Nguyễn Thị Kiều Oanh,0335234647,oanhnguyen0310@gmail.com,56195006754,NULL,NULL,NULL,Master,Inactive,Oanhspa,pharmeshub,0000-00-00
+Yumiko sugiyama,0902187064,haku.beautysalon@gmail.com,TZ2091362,2021-09-13,Tokyo,Female,Master,Active,Yumiko,0943399095,1984-02-20
+nguyễn thị bích hằng,0846833338,Hangnam19912001@gmail.com,31191003165,2022-09-09,Cục trưởng cục cảnh sát quản lý hành chính về trật...,null,Master,Active,nguyenthibichhang,90sskin,0000-00-00
+Lê Thị Quỳnh Như,0788410165,lenhu881997@gmail.com,72197003690,NULL,NULL,Female,Master,Inactive,Quỳnh Như,Liuhlam,1997-08-08
+Đặng Minh Phương,0983371099,phuongminhdang1812@gmail.com,123456789012,NULL,NULL,NULL,Pharmer,Active,Minhphuong,pharmeshub,0000-00-00
+Phạm Quỳnh Chi,0842685555,baobeii.198@gmail.com,1198019790,2021-11-23,Cục trưởng cục cảnh sát quản lí về trật tự xã hội,Female,Master,Active,Phạm Quỳnh Chi,DieuLinh87,1998-02-24
+Trần Kim,0844346,dfmu@gmail.com,7555555520796,NULL,NULL,null,Master,Active,qwe,0987654328,0000-00-00
+Nguyễn Khánh Phương,0909083333,hungcong1978@gmail.com,26197000086,NULL,NULL,NULL,Master,Inactive,0909083333,Phạm Quỳnh Chi,0000-00-00
+Ngô Xuân Hiếu,19789087627,hieungo0895@gmail.com,123456789013,NULL,NULL,NULL,Pharmer,Active,Ngoxuanhieu,pharmeshub,0000-00-00
+Nguyễn Thị Cẩm Nhung,0797436161,camnhungvt2511@gmail.com,77189000014,2022-08-28,cục trưởng cục cảnh sát quản lý hành chính trật tự...,Female,Master,Active,camnhungvt,90SSKIN,1989-11-25
+Nguyễn Thị Như Ngọc,0931875313,Annabod911@gmail.com,68186000065,NULL,NULL,NULL,Master,Inactive,NGOCCBW,H2Y888,0000-00-00
+Trần Ngọc Anh,0904885159,ngocanhzeni@gmail.com,1188030042,2021-03-14,Cục cảnh sát QLHC về TTXH,Female,Master,Active,Trần Ngọc Anh,DieuLinh87,1988-08-14
+Thanh Chip,0383888882,Thanhandu@gmail.com,383888882,NULL,NULL,NULL,Master,Inactive,thanhanduspa,90sskin,0000-00-00
+Nhật test,2131231233,hellocacpdsfdsan2@gmail.com,1111,NULL,NULL,NULL,Pharmer,Active,qwe1,qwe,0000-00-00
+Nguyễn Thị Tâm,0949431722,tamnguyenatp@gmail.com,38184014766,2024-01-04,Cục cảnh sát,Female,Master,Active,Nguyễn Thị Tâm,Trần Ngọc Anh,1984-04-18
+Vũ Lan Hương,0839966116,Mincosmetic88@gmail.com,20188005239,NULL,NULL,NULL,Pharmer,Active,Lanhuong,pharmeshub,0000-00-00
+Nguyễn Thị Quỳnh Anh,0989648865,quynhanhh06022001@gmail.com,27301001867,NULL,NULL,NULL,Master,Inactive,nguyenquynhanh,Quynhnghi,0000-00-00
+Nghiêm Xuân Sỹ,0888469999,ceo@auragroup.vn,1091004184,NULL,NULL,NULL,Master,Active,AURA888,H2Y888,0000-00-00
+Nguyễn Minh Thương,0988601205,minhthuong1511@gmail.com,52186008717,NULL,NULL,NULL,Pharmer Seller,Active,THUONG1511,H2Y888,0000-00-00
+Khanh,0333736888,royalkorea19@gmail.com,121024457,NULL,NULL,NULL,Pharmer,Active,Khanh,Nguyễn Thị Tâm,0000-00-00
+Giang queen,0985036882,giangqueen@gmail.com,985036882,NULL,NULL,NULL,Master,Inactive,Giangqueen,90sskin,0000-00-00
+Nguyễn Thị Hồng Duyên,0985111885,minhtu6830@gmail.com,1182046933,NULL,NULL,NULL,Pharmer,Active,0985111885,pharmeshub,0000-00-00
+Vũ Quỳnh Trinh,0971619669,nhatvq@m4x.vn,17196001560,NULL,NULL,NULL,Master,Active,0971619669,0568568558,0000-00-00
+Hoang Hai Yen,0963938568,hhaiyen2211@gmail.com,142944586,NULL,NULL,NULL,Master,Inactive,Jiwon0112,H2Y888,0000-00-00
+Lê Thị Huế,0985223354,huele1110@gmail.com,36191002038,2024-10-09,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,null,Master,Active,0985223354,0568568558,0000-00-00
+Trang Bông,0888888937,trangbong.tcqk4@gmail.com,40190005140,2025-06-09,BCA,Female,Master,Active,trangbong,90SSKIN,1990-10-13
+Nguyễn Thị Thu,0969903879,Nguyenthithu@gmail.com,969903879,NULL,NULL,NULL,Master,Inactive,Nguyenthithu,90sskin,0000-00-00
+tran kieu oanh,0984825883,trankieuoanh@gmail.com,984825883,NULL,NULL,NULL,Master,Inactive,trankieuoanh,90sskin,0000-00-00
+an spa,0922233324,anspa@gmail.com,922233324,NULL,NULL,NULL,Master,Inactive,anspa,90sskin,0000-00-00
+Đoàn Thị Phương,0898611868,doan99657@gmail.com,38190038509,2021-09-19,Cục cảnh sát,Female,Master,Inactive,Doanphuong,pharmeshub,1990-09-16
+Stanislav Zaretski,72533409893,staszseo@gmail.com,32353978,NULL,NULL,NULL,Master,Inactive,Stanislav,SAIGON06,0000-00-00
+Phan Thị Quỳnh Giang,0945442579,tuyendunghrrs@gmail.com,75301006579,2021-08-12,Cục trưởng cục cảnh sát quản lý hành chính về trật...,Female,Master,Active,Giang123,SAIGON06,2001-10-23
+Đỗ Thị Loan,0967077555,dophuong0990@gmail.com,25188012213,NULL,NULL,NULL,Master,Inactive,Hana,DieuLinh87,0000-00-00
+Nguyễn Hoài Anh,0919996596,nguyenhoaianh87@gmail.com,4187000024,2021-04-25,Cục trưởng cục cảnh sát quản lí về trật tự xã hội,Female,Master,Active,HoaiAnh,DieuLinh87,1987-05-16
+Vũ Bích Ngọc,0978940018,Ngocbichvu86@gmail.com,1186052561,NULL,NULL,NULL,Master,Inactive,0978940018,pharmeshub,0000-00-00
+Vũ Thị Xuân Hương,0369868566,Bongsociu91@gmail.com,22191002276,NULL,NULL,NULL,Master,Inactive,0369868566,pharmeshub,0000-00-00
+Trần Thị Thu Thuỷ,0399309999,Catthuy669@gmail.com,36193000690,NULL,NULL,NULL,Master,Inactive,0399309999,pharmeshub,0000-00-00
+Nguyễn Thị Tuyết,0945318686,bbaonhi009@gmail.com,35185001595,NULL,NULL,NULL,Master,Inactive,0945318686,pharmeshub,0000-00-00
+Trần Thị Thu,0703344672,Thuhaitran.250690@gmail.com,79190005111,NULL,NULL,NULL,Master,Inactive,THUBEAUTY,MariaTrinh,0000-00-00
+Đỗ Minh Hường,0355665998,dominhhuong9182@gmail.com,24191010775,NULL,NULL,NULL,Master,Inactive,0355665998,0568568558,0000-00-00
+Sồng Thị May,0365961734,songmay678@gmail.com,14303009390,NULL,NULL,NULL,Pharmer,Active,0365961734,Nguyễn Thị Tâm,0000-00-00
+Nguyễn thị quỳnh anh,0936944370,Qanh3352@gmail.com,27304002171,NULL,NULL,NULL,Pharmer,Active,0936944370,Nguyễn thị tâm,0000-00-00
+Thu Uyên,0979007270,daothiuyen481@gmail.com,38306013927,NULL,NULL,NULL,Pharmer,Active,0979007270,Nguyễn Thị Tâm,0000-00-00
+Lương Thị Luyện,0379078203,luyenhap2kk@gmail.com,38300017658,NULL,NULL,NULL,Pharmer,Active,0379078203,Nguyễn thị tâm,0000-00-00
+Trần Hiền,0949384986,tranhien@gmail.com,31187006347,2021-06-28,CTCCS,Female,Master,Active,Tranhien,nguyenthibichhang,1987-01-02
+Nguyễn Thị Lương,0977531193,luongnguyen00999@gmail.com,75188010684,2022-04-20,Cục trưởng cục cảnh sát quản lý hành chính về quản...,Female,Master,Active,Songsong,Giang123,1988-06-10
+Pham nguyen khang anh,0937882447,Khanganhtp@gmail.com,937882447,NULL,NULL,NULL,Master,Inactive,0937882447,90sskin,0000-00-00
+Thảo Nguyễn,0906616395,thaonguyen@gmail.com,984750394657,NULL,NULL,NULL,Master,Inactive,0906616395,90sskin,0000-00-00
+Vũ Huyền Anh,0865559299,Vuhuyenanh150@gmail.com,1199035834,2024-06-05,Cục trưởng cục cảnh sát quản lý hành chính về trật...,Female,Master,Active,Huyenanh,pharmeshub,2026-01-14
+Nguyễn Thị Lan,0979276623,truongphatlan@gmail.com,30182009924,NULL,NULL,NULL,Master,Inactive,0979276623,0568568558,0000-00-00
+TRẦN THỊ THE,0868515474,trankim83@naver.com,M62295107,NULL,NULL,NULL,Master,Active,Trankim,SAIGON06,0000-00-00
+Cao Viên,12312312321,admin222@site.com,dđ-0987654344,NULL,NULL,NULL,Pharmer Seller,Active,caovien,SAIGON06,0000-00-00
+BAE YURI,0329451000,musichanoi@gmail.com,123456789101,NULL,NULL,NULL,Master,Inactive,0329451000,90sskin,0000-00-00
+Nguyễn Thị Hường,0914623666,huongnguyen.miu @gmail.com,1187034131,NULL,NULL,NULL,Master,Inactive,0914623666,0568568558,0000-00-00
+Nguyễn Thị Khánh Hường,0919939569,Khanhhuong310@gmail.com,26195012464,NULL,NULL,NULL,Master,Inactive,0919939569,0568568558,0000-00-00
+Đào Thị Minh Ngọc,0918598228,Yuna2405@gmail.com,37190015459,NULL,NULL,NULL,Master,Inactive,0918598228,0909083333,0000-00-00
+Cao Thanh Bình,0824767666,caobinhgr@gmail.com,94095005818,NULL,NULL,NULL,Master,Inactive,thanhbinh,THUBEAUTY,0000-00-00
+Đặng Ngọc Thuỳ Linh,0334991166,dangngocthuylinh89@gmail.com,80189010148,NULL,NULL,NULL,Master,Active,0334991166,DieuLinh87,0000-00-00
+Nguyen Huynh Ngoc Thanh,909415934,ngocthanhhuynhnguyen@gmail.com,79300016260,NULL,NULL,NULL,Master,Inactive,0909415935,90SSKIN,0000-00-00
+Nguyễn Thị Thùy Trang,0787335349,trangnthuy93@gmail.com,86193012629,NULL,NULL,NULL,Pharmer,Active,PhuocNghiem93,Trần Ngọc Anh,0000-00-00
+Nguyễn Thị Thanh,0399452469,nguyenthithanhgl1207@gmail.com,30301008691,NULL,NULL,NULL,Master,Inactive,0399452469,Pharmeshub,0000-00-00
+Nguyễn Vân Anh,0948751888,Totranganh1977@gmail.com,24176009873,NULL,NULL,NULL,Master,Inactive,0948751888,Pharmeshub,0000-00-00
+nguyen hong kim ngan,0896699918,nguyenhongkimnagn@gmail.com,123456789102,NULL,NULL,NULL,Master,Inactive,nguyenhongkimngan,90sskin,0000-00-00
+Hoàng Thị Ngọc Sơn,0903607087,Ngochts1508@gmail.com,40187001390,2024-04-24,Cục Trưởng Cục CSQLHCVTTXH,Female,Master,Active,HoangNgoc87,DieuLinh87,1987-08-15
+Võ Quang Nhật,0933113331,camnhuong11111@gmail.com,42093004527,NULL,NULL,NULL,Master,Inactive,0933113331,0971619669,0000-00-00
+Trần Thị Linh,79651081999,Huonglinhvynhi@gmail.com,30191019852,1980-02-21,Cục trưởng cục cảnh sát,Female,Master,Active,khanhlinh,pharmeshub,2048-02-15
+ngo thi trinh,0988837399,ngothitrinh1@gmail.com,34195000574,2022-06-14,Cục cảnh sát,Female,Master,Active,ngothitrinh1,nguyenthibichhang,1995-10-24
+Nguyễn Thị Thơm,0983982713,Nguyenthithomhb1992@gmail.com,17192007379,2023-07-05,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,Female,Master,Active,0983982713,0568568558,1992-01-10
+Nguyễn Thị Thanh,0983497993,nguyenphuongthanh1093@gmail.com,1193007164,NULL,NULL,null,Master,Inactive,PhuongThanh93,DieuLinh87,0000-00-00
+Hồ Thị Liên,0973076098,Hothilien20101989@gmail.com,38189036928,NULL,NULL,NULL,Master,Inactive,Phuonglienspa,Pharmeshub,0000-00-00
+nguyen tuyet,09455318686,Cicinguyen@gmail.com,123456789103,NULL,NULL,NULL,Master,Inactive,cicinguyen,90sskin,0000-00-00
+Dương Thị Nghĩa Hưng,0941929339,maria.duong84@gmail.com(2),92184004895,NULL,NULL,NULL,Master,Inactive,MARIADUONG84,DieuLinh87,0000-00-00
+Vũ Thị Huyền Nga,0968916566,thungaspa2023@gmail.com,24190005669,2025-09-25,Bộ Công An,Female,Master,Active,ThuAnhspa,DieuLinh87,1990-05-12
+Nguyễn Phương Thảo,0867856636,12ngphuongthao@gmail.com,20198000949,2024-04-11,Công Anh Tỉnh Lạng Sơn,Female,Master,Active,0867856636,0943399095,1998-06-15
+Trương Thị Thu Hà,0949923333,truongthuha86@gmail.com,1186000521,2020-04-15,cục cảnh sát quản lý về cư trú,Female,Master,Active,HATRUONG,Trankim,1985-09-09
+Vũ Thanh Thảo,0917555818,Vuthanhthao061294@gmail.com,34194004138,2025-11-20,Bộ công an,Female,Master,Active,Thanhthaospa,Pharmeshub,1994-12-06
+Nguyễn Thị Hiền,0941919799,nguyenhienvptk@gmail.com,75185018238,NULL,NULL,NULL,Master,Inactive,Hien123,Songsong,0000-00-00
+Lê Thị Thảo,0973941930,thaolecoachingclinic@gmail.com,37190005432,2021-09-01,Cục cảnh sát quản lý hành chính về trật tụ xã hội,Female,Master,Active,ThaoLe,DieuLinh87,1990-10-02
+Nguyễn Thị Nhật Trang,0975762636,Duongkienquoc2704@gmail.com,40191037728,NULL,NULL,NULL,Master,Inactive,S2MagicBeauty,Huyenpham,0000-00-00
+Le Thi Thao Mi,0901835233,Thaomi835@gmail.com,77187000506,2022-12-22,Cục quản lý hành chính trật tự xã hội,Female,Master,Active,ThaoMi,DieuLinh87,1986-07-23
+Bùi Kim Dung,0966068969,buikimdungvn1710@gmail.com,36187021374,2021-08-11,cục trưởng cục cảnh sát quản lý hành chín...,Female,Master,Active,0966068969,0943399095,1987-10-17
+Nguyễn Thị Phương An,0962947278,DangBongSpa@gmail.com,40190045065,NULL,NULL,NULL,Master,Active,SpaDangBong,Huyenpham,0000-00-00
+Phạm Thu Trang,0975577132,thutrangpham0506@gmail.com,33189004055,2021-12-22,Cục cảnh sát kiểm soát trật tự xã hội,Female,Master,Active,0975577132,0966068969,1989-09-23
+Lê Thị Nhung,0965138593,vangiang270518@gmail.com,17193009479,2022-06-29,Cục cảnh sát quản lý hành chính về trật tự xã hội,Female,Master,Active,0965138593,0568568558,1993-11-30
+Le Thi Thanh Huyen,0986223337,lethanhhuyen8586@gmail.com,40186039163,2026-02-27,Cục Cảnh Sát QLHC về TTXH,Female,Master,Active,RosyNguyen,Huyenpham,1986-01-20
+Nguyễn Thị Dung,0788658888,Kimdung.02811@gmail.com,30192002516,2001-12-28,Thành phố Hải Dương,Female,Master,Active,0788658888,DihanBeauty,1992-11-28
+Nguyễn Thùy Anh,0793366289,thuyanhngyn1908@gmail.com,22304004374,2021-04-25,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,Female,Master,Active,0793366289,0568568558,2004-08-19
+Vân Trần,0919428898,tranthivan041284@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Vantran,90sskin,0000-00-00
+Phạm Minh Nhật,0828671879,matnhinh108@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Test11111,SAIGON06,0000-00-00
+Phan Thị Thuý Hằng,0823399368-0847666468,hangspa.vn@gmail.com,44187007528,2022-04-05,Cục Trưởng Cục cảnh sát Quản lý hành chính về trật...,Female,Master,Active,Phanthuyhang87,0919107339,1987-04-24
+Nguyễn Thị Phương Vy,0939140693,pvynguyen93@gmail.com,56193007564,2021-08-15,Cục Trưởng Cục Cảnh Sát Quản Lý Hành Chính Về Trật...,Female,Master,Active,Vyvyspa,Pharmeshub,1993-06-14
+Hoàng Thị Lương,0906771283,hoangthiluong102@gmail.com,40183019784,2021-11-22,Cục Trưởng Cục CSQLHCVTTXH,null,Master,Active,0906771283,HoangNgoc87,0000-00-00
+Nguyễn Thị Mai,0985258959,Nguyenmai2001@gmail.com,25191007937,NULL,NULL,NULL,Master,Active,0985258959,0568568558,0000-00-00
+Mai My My,0905999869,maimymyhouse@gmail.com,49191001576,2021-04-27,Cục trưởng Cục cảnh sát quản lý hành chính về trật...,Female,Master,Active,0905999869,0568568558,1991-11-12
+Trương Lữ Nhật Ngân,0774841733,tlnhatngan99@gmail.com,94199007845,NULL,NULL,NULL,Pharmer,Active,0774841733,H2Y888,1970-01-01
+Nguyễn Kim Trang,0925866286,KimTrangAndola@gmail.com,30189018536,NULL,NULL,NULL,Master,Active,0925866286,DieuLinh87,0000-00-00
+Bùi Thị Tình,0971939390,Buithitinh381990@gmail.com,17190007217,2021-05-10,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,Female,Master,Active,0971939390,0568568558,1990-08-03
+Nguyễn Thu Trang,0366872968,nguyenthutrang123@gmail.com,31188006543,NULL,NULL,NULL,Master,Inactive,ThuTrang,90sskin,0000-00-00
+Mai Thị Thúy Hằng,0938676605,maihang503@gmail.com,44195009370,NULL,NULL,Female,Pharmer,Active,Thuyhang,Bebe_gg,1995-01-10
+Nguyễn Thị Thu Phượng,0377277826,phuongntt@h2yjsc.com,64189008531,NULL,NULL,NULL,Master,Inactive,Thuphuong,SAIGON06,0000-00-00
+Lê Ngọc Vân,0387346887,lethingocvan190992@gmail.com,1192047355,NULL,NULL,NULL,Pharmer Seller,Active,0387346887,0568568558,0000-00-00
+Jun Hye Jin,0934534060,abcjinnyvn@gmail.com,M75753249,NULL,NULL,null,Master,Active,0934534060,SAIGON06,1993-04-03
+Trần Thị Thanh Tâm,0906373993,tranthanhtam75182@gmail.com,60186006981,2022-01-12,Cục trưởng Cục CSQLHC về TTXH,Female,Master,Active,0906373993,ThaoMi,1986-12-27
+Lê Thúy Quỳnh,0367891028,quynhlethuy06@gmail.com,1300033047,NULL,NULL,NULL,Pharmer Seller,Active,Scorvv,Pharmeshub,0000-00-00
+Trang Trang,091490982,myphamhq321@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0914909822,SAIGON06,0000-00-00
+vutuan,0988457204,vutuan@kocomart.vn,123765920128,NULL,NULL,NULL,Master,Inactive,vutuankocomart,VUTHAO01,0000-00-00
+Jeannie N Le,0374732773,JeannieNLe@gmail.com,37473277345,NULL,NULL,NULL,Master,Inactive,JeannieNLe,camnhungvt,0000-00-00
+Trần Thảo Yến,0988233242,lvcanh411@gmail.com,15191000074,2021-04-18,Cục trưởng cục cảnh sát quản lí hành chính về trật...,Female,Master,Active,IAMYBeauty,DieuLinh87,1991-07-30
+Nguyễn Thu Hương,0986968052,nguyenhuong5688@gmail.com,1188037563,2022-08-07,Cục trưởng cục cảnh sát quản lí hành chính về trật...,Female,Master,Active,0986968052,DieuLinh87,1988-06-05
+Vu ngoc bich,0932970994,Vungocbich38@gmail.com,30194002188,NULL,NULL,NULL,Master,Inactive,Vungocbich,90sskin,0000-00-00
+Thái Thị Diệu Hiền,0828882009,thaidieuhien@gmail.com,82888200900,NULL,NULL,NULL,Master,Inactive,thaithidieuhien,camnhungvt,0000-00-00
+Trần Thị Vân,0976589452,vantranduocsi@gmail.com,97658945212,NULL,NULL,NULL,Master,Active,Vantranduocsi,camnhungvt,0000-00-00
+Trần Thị Tú Trinh,0943777115,ttcomestickg@gmail.com,91300015605,2025-03-24,Cục Cảnh Sát,Female,Master,Active,0943777115,0568568558,2000-06-29
+Phương Thảo,0365155555,thaothao@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,phuongthao,SG06,0000-00-00
+Nguyễn Hạ Trang,0907220999,hatrangcp99@gmail.com,22191005703,2021-04-14,Tỉnh Quảng Ninh,Female,Master,Active,0907220999,0568568558,1991-08-13
+Phạm Khánh Ly,0971986977,lyxxx98@gmail.com,1198013025,NULL,NULL,NULL,Pharmer,Active,0971986977,0568568558,0000-00-00
+KOL,01111111111,asdasdaerw@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,MKT01,Harrishuynh,0000-00-00
+GUYỄN THÁI PHƯỢNG HỒNG,0979069641,thaiphuonghongn@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,MUP01,MKT01,0000-00-00
+Phạm Văn Phấn,0964903456,andyphan0946@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,MUP02,MKT01,0000-00-00
+tran thi cach,0943537611,tranthicach@gmail.com,96199010414,2025-01-06,BCA,Female,Master,Active,Tranthicach,90sskin,1999-03-03
+1,1231231231,andyphasdsdn0946@gmail.com,123123231231232132,NULL,NULL,NULL,Pharmer,Inactive,fgh,nguyenthibichhang,0000-00-00
+Lương Thanh Tú,0937573366,anannana1707@gmail.com,1181036536,2021-05-01,Cục cảnh sát quản lý trật tự xã hội,Female,Master,Active,luongthanhtu,nguyenthibichhang,1981-10-01
+Nguyễn Thanh An,0902264686,Thanhan5395@gmail.com,1195000771,2021-11-22,Cục cảnh sát quản lý hành chính về trật tự xã hội,Female,Master,Active,Thanhan95,0919107339,1995-03-05
+Nguyễn Lê Thanh Thảo,0898124206,thaong9895@gmail.com,91195000115,2021-12-21,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,Female,Master,Active,Ruskinlabbeaute,Songsong,0000-00-00
+Nguyễn Thùy Trang,0963215241,thuytrangnguyen272@gmail.com,1194048524,2021-07-10,Hà Nội,null,Master,Active,0963215241,0568568558,0000-00-00
+nguyễn thị xoan,0968566893,nguyenthixoan1@gmail.com,123456789117,NULL,NULL,NULL,Master,Inactive,xoannguyen,90sskin,0000-00-00
+Trần Thị Thanh Tâm,0965173856,tuyenhi@gmail.com,27300009910,2022-11-21,Công an huyện Tân Yên,Female,Master,Active,tuyenhi,90sskin,2025-12-01
+Vo duc truong,0987907781,Truongvd@h2yjsc.com,42096004380,NULL,NULL,NULL,Pharmer,Active,Truongtest,Songsong,0000-00-00
+Cao Viên,12312312314,admsssin@site.com,NULL,NULL,NULL,NULL,Pharmer,Active,09047751779,SAIGON06,0000-00-00
+Lâm Mỹ Quân,0941565577,myquanlam.sh99@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0941565577,Songsong,0000-00-00
+Nguyễn Vũ Mạnh Khương,0901869983,khuongnguyen.cremy@gmail.com,56201010409,NULL,NULL,NULL,Pharmer,Active,0901869903,Songsong,0000-00-00
+Minh Châu,0962246702,chautruong.shinhan@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0962246702,Songsong,0000-00-00
+O'Glow lash&skin clinic,0414826590,oglowlashskinclinic@gmail.com,41482659000,NULL,NULL,NULL,Master,Inactive,keirale,90sskin,0000-00-00
+Nghĩa,0327198420,vu60937@gmail.com,75189022133,NULL,NULL,NULL,Pharmer,Inactive,19609477,Songsong,0000-00-00
+Phạm Thị Thanh Hằng,0913245566,hangkelly2311@gmail.com,31195002836,2021-04-06,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,Female,Master,Active,0913245566,0568568558,1995-11-23
+Đinh Thị Ngát,0909168658,dinhngat86@gmail.com,34186018575,NULL,NULL,NULL,Pharmer,Active,0909168658,HoangNgoc87,0000-00-00
+Nguyễn Thị Vân,0918523975,hoangngocyoga@gmail.com,38178020395,NULL,NULL,NULL,Pharmer,Active,0918523975,HoangNgoc87,0000-00-00
+Cao Viên,09889034554,00admin@site.com,NULL,NULL,NULL,null,Master,Active,0904751009,SAIGON06,0000-00-00
+Nông Thị Hoa,0988305286,xuanbacvn@gmail.com,24190008107,NULL,NULL,null,Master,Inactive,SpaHoaTucTuc,Huyenpham,0000-00-00
+Ông Thị Quỳnh Trang,0939678886,0939678886abc@gmail.com,42186015503,NULL,NULL,NULL,Master,Inactive,SpaLinhDan,Huyenpham,0000-00-00
+Vũ Mai Hương,0985583247,huong.cerinco@gmail.com,34193009394,NULL,NULL,NULL,Pharmer,Active,Vippharmeshub1,Pharmeshub,0000-00-00
+CI Aesthetic,0915698699,ciclinic.hanoi@gmail.com,30188002231,2021-12-08,Cục cảnh sát quản lý hành chính về trật tự xã hội,Female,Master,Active,hathuthao,90sskin,1988-05-11
+phuong thao,0987907892,phuongthao@gmail.com,123456789119,NULL,NULL,NULL,Master,Inactive,maybeautyspa,90sskin,0000-00-00
+Cao Ly,0967990104,caoly@gmail.com,96799010400,NULL,NULL,NULL,Master,Inactive,caoly,90sskin,0000-00-00
+Nguyễn Ngọc Thu,0936163393,nguyenngocthu1416@gmail.com,1193001851,2023-05-27,Cục cảnh sát quản lý hành chính về trật tự xã hội,Female,Master,Active,0936163393,0568568558,0000-00-00
+Phạm Thị Thùy,0971886563,phamthuy08022013@gmail.com,30199003314,NULL,NULL,NULL,Master,Inactive,0971886563,0568568558,0000-00-00
+Huỳnh Thị Phương Nhã,0349437189,mailtest@gmail.com,NULL,NULL,NULL,Female,Master,Inactive,Phuongnha,CS01,1994-10-10
+Đặng Phương Linh,0397288787,minhpink2024@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0397288787,CS01,0000-00-00
+CÔNG TY TNHH TAMYA,0916861315,mailtest1@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0916861315,CS01,0000-00-00
+Trần Nhật Linh,0969557447,mailtest2@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0969557447,CS01,0000-00-00
+Nguyễn Thị Thu Hà,0868218828,Hamy181095@gmail.com,24195007078,2023-06-13,Tỉnh Bắc Giang,Female,Master,Active,0868218828,0568568558,1995-10-18
+Trần Thị Bích Liên,0902948066,Bichliensongcau@gmail.com,54191007563,2022-10-24,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,null,Master,Active,0902948066,0568568558,0000-00-00
+Nguyễn Phương Anh,0987358999,zenda29@gmail.com,40190000197,2022-04-12,Cục quản lý hành chính và trật tự xã hội,Female,Master,Active,NguyenPhuongAnh,RosyNguyen,1990-10-20
+Nguyễn Thị Hồng Nhung,0962238055,Nguyenhongnhung07101999@gmail.com,26199004283,2024-02-16,Cục cảnh sát,Female,Master,Active,Hongnhungspa,Nhungspa,1999-10-07
+Lưu Thị Huyền Trang,0982881338,huyentrangspa@gmail.com,38188004513,2021-05-09,Công an thanh hoá,Female,Master,Active,Changcosmetic,Changclinic,1988-08-13
+Nguyễn Phương Trang,0981574369,phuongtrang4394@gmail.com,34194004746,2021-05-10,Cục Cảnh Sát,Female,Master,Active,Phuongtrang,pharmeshub,1994-03-04
+Đặng Thu Huyền,0838688228,huyen.dtt19@gmail.com,1192013873,2022-02-03,Cục cảnh sát về QLHC về TTXH,Female,Master,Active,0838688228,0943399095,1992-09-01
+Nguyen Thi Thao,0386411368,thaoktc1@gmail.com,25188004212,2023-11-13,Cục cảnh sát QLHC về TTXH,Female,Master,Active,Lavenderspa,Songsong,1988-07-20
+Lê Phương Thuỷ,0949535668,Thuyle.kose@gmail.com,38189041780,2022-02-20,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,Female,Master,Active,0949535668,0568568558,1989-07-28
+Phạm Ngọc Mai,0936888814,phamngocmai88@gmail.com,1188036175,2021-05-01,Hà Nội,Female,Master,Active,phamngocmai,hathuthao,1988-08-14
+Trần Thùy Linh,0814888555,tranlinh.ken97@gmail.com,24197014402,2023-06-28,Cục trưởng cục cảnh sát quản lý hành chính về trật...,Female,Master,Active,Linclinic,BeautybyD,1997-09-03
+Đào Nguyên Ngọc,0936936666,ngocdn.ftu@gmail.com,1192009215,2021-07-10,Cục trưởng cục cảnh sát quản lý hành chính về trật...,Female,Master,Active,Nguyenngoc,Khanhlinh,1992-11-18
+Liềng Ân Thảo,0928344505,120298.lat@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,0928344505,SAIGON06,0000-00-00
+Nguyễn Thị A,0936900000,nguyenthia@gmail.com,8811038175,NULL,NULL,NULL,Master,Inactive,nguyenthia,phamngocmai,0000-00-00
+Hà Thiên Trang,0915279898,thientrangspa12303@gmail.com,20192004001,NULL,NULL,null,Master,Active,hathientrang,hathuthao,0000-00-00
+Ngũ Thanh Trường,0946453688,evansvu117@gmail.com,38093015844,2025-02-19,CA TP,Male,Master,Active,DrTruong,Pharmeshub,1993-01-17
+Bùi Đào Anh,0934301090,buidaoanh@gmail.com,31190004119,2021-04-25,Cục Cảnh sát,Female,Master,Active,buidaoanh,nguyenthibichhang,0000-00-00
+Đặng Huyền Trang,0978882762,huyentrangtnmt11@gmail.com,19194000146,2025-11-03,Hà nội,Female,Master,Active,0978882762,0943399095,2025-04-09
+CTY,0999999999,H2Y@gmail.com,NULL,NULL,NULL,NULL,Master,Active,CS01,SAIGON06,0000-00-00
+Vũ Thu Huyền,0969308688,vuthuhuyen8866@gmail.com,22191000292,NULL,NULL,Female,Master,Active,0969308688,CS01,1991-09-18
+Phạm Thị Huyền Trang,0986881538,thangpham18@gmail.com,30187013322,2025-11-12,Hà Nội,null,Master,Active,Munspa,DrTruong,0000-00-00
+Trương Hải Ngọc,0356664737,hongphi4737@gmail.com,89186019567,2023-01-18,Cục trưởng cục cảnh sát quản lý hành chánh về trật...,Female,Master,Active,truonghaingoc,camnhungvt,1986-07-24
+VI NGỌC DIỆP,0705000997,Weelab.vn@gmail.com,20197001778,2023-06-14,Cục trưởng cục cảnh sát quản lí hành chính về trật...,Female,Master,Active,Weelab,DIEULINH87,1997-05-20
+Nguyễn Thùy Dung,0862043997,Nguyenhai47kdtvt@gmail.com,NULL,NULL,NULL,NULL,Master,Inactive,Nguyenthuydung,Camnhungvt,0000-00-00
+Pham Bich Ngoc,0938190879,Phamngoc85@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,Bichngoc85,Camnhungvt,0000-00-00
+Nguyễn Đức Tùng,0888426789,tungnd.bm@gmail.com,30088022119,NULL,NULL,Male,Master,Inactive,nguyenductung,hathuthao,1988-07-15
+Nguyễn Thị Hoài Thu,0907371102,hoaithu.123110@gmail.com,37189012496,NULL,NULL,NULL,Master,Active,0907371102,0943399095,0000-00-00
+Bùi Ngọc Diễm,0913292978,buingocdiem@gmail.com,91329297800,NULL,NULL,NULL,Master,Inactive,buingocdiem,Bichbong,0000-00-00
+Huỳnh Thị Ngọc Thảo,0966106070,huynhthao191190@gmail.com,72190015763,2021-08-11,Công An Tây Ninh,Female,Master,Active,huynhthingocthao,90sskin,1990-11-19
+Đinh Thị Hương Quế,0356355866,juliedinh147@gmail.com,35635586666,NULL,NULL,NULL,Master,Inactive,QueCZ,hathuthao,0000-00-00
+Đinh Hương Quế,84915698699,Juliedinh147@gmail.con,84915698699,NULL,NULL,NULL,Master,Inactive,Que,hathuthao,0000-00-00
+Nguyễn Thị Huyền,01037650053,ngthanhhien993@icloud.com,22193010410,2023-02-12,CỤC TRƯỞNG CỤC CẢNH SAT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,Female,Master,Active,01037650053,Trankim,1993-07-29
+Phạm Nhật Hoàng,0923680668,pnh.299@gmail.com,1091014750,2021-07-10,Hà Nội,null,Master,Active,0966617887,phamngocmai,0000-00-00
+Nguyễn Thị Dung,0948491010,Ntd200590@gmail.com,31190009788,2021-08-12,Cục cảnh sát quản lý hành chính trật tự xã hội,null,Master,Active,nguyenthidung,nguyenthibichhang,0000-00-00
+Đặng thị thu huyền,0984188888,Hkoreabeauty@icloud.com,30193006358,2021-04-14,Cục trưởng cục cảnh sát quản lý hành chính về trật...,Female,Master,Active,Dangthithuhuyen,Quynhnghi,1993-08-26
+Đỗ Thị Lương,0906010456,hailuong2603@gmail.com,31194006851,2021-04-29,Hai phong,Female,Master,Active,Hailuong,Pharmeshub,0000-00-00
+Đặng Thu Hà,0989501992,vanidang2923@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0989501992,0838688228,0000-00-00
+Hoàng Thị Hà Như,5141208886,canh.levan411@gmail.com,2903960000,1985-04-27,Đại Sứ Quán tại Đức,NULL,Master,Active,015141208886,ThaoMi,0000-00-00
+Nguyễn Thị Hương,0355549795,a0716340593@icloud.com,22199004088,2025-04-24,Bộ công an,NULL,Master,Active,NguyenHuong,Lavenderspa,0000-00-00
+Đào Thúy Hòa,0942815456,hoadtnihbt@gmaill.com,30186013671,NULL,Hà Nội,NULL,Master,Inactive,Thuyhoa,Pharmeshub,0000-00-00
+Nguyễn Hồng Vy,0938766316,vyking2013@gmail.com,79183027362,1983-04-10,Cục trưởng cục cảnh sát quản lí hành chính về trật...,NULL,Master,Active,Vynguyen,thaomi,0000-00-00
+Nguyễn Thị Dung,0904866236,Dungandu88@gmail.com,1188005350,15/09/2025,bộ công an,NULL,Master,Active,Anduclinic,PharmesHub,0000-00-00
+Võ Thị Ngọc Thi,0943499368,Ngocthi109109@gmail.com,66189002732,2021-04-25,Cục Cảnh sát QLHC về TTXH,Female,Master,Active,0943499368,TRANKIM,1989-10-09
+Nguyễn Thị Dịu,0961896741,nguyendiu112001@gmail.com,34301009576,2021-08-19,Cục Cảnh Sát,NULL,Master,Active,NguyenDiu,Phuongtrang,0000-00-00
+Nguyễn Hồng Linh,0937456899,Honglinh1212@gmail.com,79188023122,2021-04-25,Cục trưởng cục cảnh sát quản lí hành chính về trật...,NULL,Master,Active,Linhnguyen,Thaomi,0000-00-00
+Linh,0948780828,Linhon123@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Inactive,Linh,90sskin,0000-00-00
+Trần Thị Ngọc Bích,0961300493,Bichbongne93@gmail.com,75193002252,2021-04-28,cục trưởng cục cảnh sát quản lí về trật tự xã hội,NULL,Master,Active,Bichbong,dieulinh87,0000-00-00
+Trịnh Ngọc Mai,0975898900,maitrinhngoc195@gmail.com,1187005669,NULL,NULL,Female,Master,Inactive,0975898900,CS01,1987-03-30
+Bạch Thị Kim Dung,0932789628,bachthikimdung.bmt@gmail.com,66189018421,1989-02-28,Cục Cảnh Sát,NULL,Master,Active,BachThiKimDung,NguyenDiu,0000-00-00
+Nguyễn Thị Phương Anh,0393601350,Ivy.nguyen1991@gmail.com,37191005951,2021-04-19,Cục cảnh sát quản lý hành chính về trật tự xã hội,null,Master,Active,0363601350,0919107339,0000-00-00
+Nguyễn Thị Khuyên,0399888909,khuyennguyenspa6868@gmail.com,20190009815,2022-01-26,NULL,Female,Master,Active,0399888909,CS01,1990-04-26
+Đặng Thanh Loan,0339333555,dangthanhloanfacebook@gmail.com,24194004587,NULL,Cục cảnh sát quản lý hành chính về trật tự xã hội,NULL,Master,Inactive,0339333555,0943399095,0000-00-00
+Phùng Ngọc Lưu Ly,0329734962,luuly091993@gmail.com,1193036456,2022-08-24,cục trưởng cục cảnh sát quản lí về trật tự xã hội,NULL,Master,Active,Huyskin,dieulinh87,0000-00-00
+lê thị hoa,0981820796,lethihoa861995@gmail.com,40196012037,1996-07-22,cục trưởng cục cảnh sát quản lí về trật tự xã hộin,NULL,Master,Active,lethihoa,0986968052,0000-00-00
+Chu Thị Ngọc,0902458911,doanminhphuong.89@gmail.com,33194002438,1994-04-13,cục trưởng cục cảnh sát quản lí về trật tự xã hội,NULL,Master,Active,Moanabeauty,weelab,0000-00-00
+Nguyễn Thị Lan Vy,0914260567,lavyy217@gmail.com,35300001999,2000-07-21,Cục Cảnh Sát Quản Lý Hành Về Trận Tự Xã Hội,Female,Master,Inactive,nguyenlanvy,90sskin,2000-07-21
+Phùng Hải Sơn Tùng,0372112400,Thesootuds@gmail.com,1200008988,2025-02-10,bộ công an,NULL,Master,Active,Skintech,huyskin,0000-00-00
+Phạm Thái Quỳnh My,0945188779,venicespapr@gmail.com,58192002587,2022-01-19,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,NULL,Master,Active,0945188779,0568568558,0000-00-00
+Lưu Tuyết Ngân,0916919295,snow.ngan@gmail.com,91193015303,2022-11-24,Cục Trưởng Cục Cảnh Sát Quản Lý Hành Chính về Trật...,null,Master,Active,0916919295,CS01,0000-00-00
+Nguyễn Thị Anh,0886392168,daudaunguyen3207@gmail.com,30187022860,2022-08-13,NULL,Female,Master,Active,0886392168,CS01,1987-11-03
+Nguyễn Thị Khánh Hoà,0976488741,khanhhoa20211996@gmail.com,38196002466,NULL,Thanh hoá,NULL,Master,Active,Khanhhoaspa,Changclinic,0000-00-00
+Trương Thị Thảo Sương,0937756839,suongtruong2019@gmail.com,79188005062,2000-01-01,Cục Cảnh Sát Quản Lý Hành Chính Về Trật Tự Xã Hội,Female,Pharmer,Active,truongthithaosuong,90sskin,1988-12-15
+Nguyễn Thị Anh Thư,Nguyễn Thị Anh Thư,ng.athu807@gmail.com,NULL,NULL,NULL,NULL,Master,Active,0979847987,0916919295,0000-00-00
+Phạm Thị Thu Huyền,0961861407,huyenmunspa@gmal.com,30194008770,1994-07-14,Cục trưởng cục quản lí về trật tự xã hội,NULL,Master,Active,hun1407,Dieulinh87,0000-00-00
+Nguyễn Thị Minh,0384008189,minhoppapin@gmail.com,38301005213,NULL,bộ công an,Female,Pharmer,Active,Minh,khanhlinh,2001-09-18
+Tran My Duyen,0968235288,myduyen11395@gmail.com,34195008702,NULL,NULL,null,Master,Active,0968235288,Cs01,0000-00-00
+Nguyễn Thị Thuyên,0396195413,thuyennguyen@2102gmail.com,64179002882,1979-02-10,Cục cảnh sát,null,Master,Active,0396195413,CS01,0000-00-00
+Trần Thuỳ Linh,0988388095,Linkf3@gmail.com,1187040809,1987-09-23,Cục cảnh sát quản lý hành chính về trật tự xã hội,NULL,Master,Active,Linhtran87,0919107339,0000-00-00
+Nguyễn Thị Ngọc Sen,0853368586,nnsen1979@gmail.com,31179001963,1979-09-27,NULL,NULL,Master,Active,nguyenthingocsen,nguyenthibichhang,0000-00-00
+Lê Thị Hường,0972792335,Thihuongle974@gmail.com,64190003824,1990-07-17,cục trưởng cục cảnh sát quản lí về trật tự xã hội,null,Master,Active,huongspa,bichbong,0000-00-00
+Kha Thị Bửu Liên,0907799046,buulien1986@gmail.com,79186005140,NULL,NULL,NULL,Master,Active,lienkha,Camnhungvt,0000-00-00
+Lê Thị Na,0343200147,Lethina0941600427@gmail.com,66191012679,2025-11-10,Bộ công an,Other,Master,Active,Lena,Camnhungvt,1991-12-12
+Trần Kim,0868872813,nhatmp.gssp@gmail.com,NULL,NULL,NULL,null,Master,Active,qwe2,qwe,0000-00-00
+Dương Thị Hoa,0914186313,hoangoclan4791@gmail.com,26191000913,2024-07-03,Cục cảnh sát,Female,Master,Active,0914186313,CS01,1991-07-04
+Nguyễn Lâm Oanh,0388442956,Oanhlamnguyen94@gmail.com,14194003885,2021-04-25,CTCCS QLHC về TTXH,null,Master,Active,Lamoanh,PharmesHub,0000-00-00
+Vũ Mỹ Hạnh,0982387691,Weishenme_mh_90@yahoo.com,NULL,NULL,NULL,NULL,Master,Active,0982387691,0886392168,0000-00-00
+Dương Quế Hương,0834145677,Glowskinclinicvn@gmail.com,1191035933,NULL,Hà Nội,NULL,Master,Inactive,Duonghuong,Pharmeshub,0000-00-00
+Nguyễn ngọc nghĩa,0981957234,Bachgianghia01@gmail.com,40088005842,2025-07-31,Bộ công an,Male,Master,Active,Nguyenngocnghia,Quynhnghi,0000-00-00
+Phạm Phương Trang,0941201102,trangbeautylashes@gmail.com,79194005269,2013-01-11,cục cảnh sát,Female,Master,Active,0941201102,CS01,2025-12-17
+Nguyễn Lê Bích Thuỷ,0911009339,ceothuynguyen.mimozaspa@gmail.com,79188020538,2021-11-27,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,NULL,Master,Active,Thuynguyen9339,Bichbong,0000-00-00
+Nguyễn Thị Hoa,0393585525,Rosanguyen6688@gmail.com,1187034084,NULL,Công an tp Hà Nội,NULL,Master,Active,Hoahong,Pharmeshub,0000-00-00
+Lê Thị Liên,0867525688,huonglien2020fb@gmail.com,38194030926,1994-11-12,CA Thanh Hóa,null,Master,Active,SpaHuongLien,Huyenpham,0000-00-00
+Nguyễn Thị Hải Hoa,0906438686,sushi0112014@gmail.com,1184021140,NULL,Công an,NULL,Master,Inactive,Nicebeauty,Pharmeshub,0000-00-00
+Phạm Hoàng Phương Linh,0978764478,phamhoangphuonglinh1708@gmail.com,1192039642,2023-04-26,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,NULL,Master,Active,0978764478,0568568558,0000-00-00
+Lê Thị Thảo Nguyên,0832394766,Thainguyen11082102@gmail.com,66300016183,NULL,CA Đắk Lắk,null,Pharmer Seller,Active,Thaonguyen,Lena,0000-00-00
+MIHARA MIHO,902356679,mihosakuragi@gmail.com,NULL,NULL,NULL,null,Pharmer,Inactive,0902356680,0939635497,1970-03-01
+Tú Anh,0987819019,ngotuanh0906@gmail.com,1187015355,NULL,NULL,null,Pharmer,Active,0987819019,pharmeshub,1987-09-06
+Đàm Ngọc Huyền,0843788828,ngochuyen0710hlls@gmail.com,20196000300,1996-08-25,Cục cảnh sát quản lý hành chính về trật tự xã hội,NULL,Master,Active,Damhuyen96,0919107339,0000-00-00
+Nguyễn Thị Thời,0983504809,Nguyenthoi9987@gmail.com,31187010243,2022-04-25,Cục cảnh sát,Female,Pharmer Seller,Active,0983504809,CS01,1987-09-09
+Lê Thị Thảo,0838292882,thaomon123@gmail.com,20188002107,2021-04-11,Cục trưởng cục cảnh sát quản lý hành chính về trật...,Female,Master,Active,Thanhthaols89,CS01,1988-04-10
+Nguyễn Thị Hồng Vân,0767431139,nvan22101971@gmail.com,87172004907,1972-01-01,Cục trưởng cục cảnh sát quản lý hành chính về trật...,NULL,Master,Active,NguyenVan,Songsong,0000-00-00
+Trương Thị Ngọc Ánh,0333126818,Bachgianghia02@gmai.com,40197018206,2025-04-25,Bộ công an,null,Master,Active,truongthingocanh,nguyenngocnghia,0000-00-00
+Dương Thị Vân Anh,0983916767,vananhduong2209@gmail.com,64191005011,2022-02-10,CCCCS,NULL,Master,Active,0983916767,Songsong,0000-00-00
+Ngô Thị Vân Anh,0862727689,123@gmail.com,NULL,NULL,NULL,NULL,Master,Active,0862727689,CS01,0000-00-00
+Đỗ Thị Xuân,0845398668,dothanhxuan2161989@gmail.com,30189017264,1989-06-21,Cục quản lý hành chính trật tự xã hội,NULL,Master,Active,DoThanhXuanPharmes,DieuLinh87,0000-00-00
+Nguyễn Huỳnh Phương Thảo,15106466271,Lisathao512@gmail.com,Y8181828,2017-08-29,California,Female,Master,Active,TNskinlab,Pharmeshub,1986-05-12
+VŨ THỊ MƯỜI,0902945657,yenngocbeauty2017@gmail.com,34180012630,2022-08-05,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀMH CHÍNH VỀ TRẬT...,Female,Master,Active,0902945657,CS01,1980-10-06
+Vũ Thị Kiều Oanh,0868318268,oanhvu868686@gmail.com,75191004171,2022-08-27,Cục trưởng cục cảnh sát,Female,Master,Active,Oanhdiudang123,CS01,1991-10-10
+Nguyễn Thị Song Ngân,0798529998,songngannguyenthi074@gmail.com,72199002048,2023-08-06,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,null,Master,Active,songngan9889,Bichbong,0000-00-00
+Tạ Ngọc Trang,0944486454,ngoctrangta6@gmail.com,91194016126,2022-05-26,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,null,Master,Active,0944486454,0568568558,0000-00-00
+Nguyễn Thị Thu,0981543399,nguyenthu.255bg@gmail.com,24193007421,2023-01-10,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,NULL,Master,Active,0981543399,0568568558,0000-00-00
+nguyễn thị kim thoa,0984747162,nguyenthikimthoa@gmail.com,74188008075,1988-01-01,hải dương,NULL,Master,Active,nguyenthikimthoa,90sskin,0000-00-00
+Phan Thị Bảo Châu,0868726868,Baochau150595@gmail.com,33195000566,2021-04-23,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,NULL,Master,Active,0868726868,0568568558,0000-00-00
+Đoàn Trà Mi,0942721722,Doantrami@gmail.com,9619103466,NULL,NULL,NULL,Master,Active,Doantrami,90sskin,0000-00-00
+Phùng Bội Bình,0772772724,boibinh.mtl@gmail.com,79198005277,2021-12-20,Cục cảnh sát quản lý hành chính trật tự xã hội,Female,Master,Active,phungboibinh,90sskin,0000-00-00
+Phạm Thị Trang,0869499862,Phamtrang210694@gmail.com,NULL,NULL,NULL,null,Master,Active,0869499862,01037650053,0000-00-00
+Nguyễn Thị Vân,0975531979,vannguyen091@gmail.com,NULL,NULL,NULL,NULL,Master,Active,0975531979,KCM,0000-00-00
+Nguyễn Thị Kim Ba,0902427131,ntkba89@gmail.com,92189000983,NULL,CA Cần Thơ,NULL,Master,Active,Kimba,Lena,0000-00-00
+Nguyen Hoang Giap,0968171014,giap.nguyen171014@gmail.com,1092016273,2001-05-07,Cục cảnh sát quan lý hành chính về trật tự xã hội,NULL,Master,Active,Giapnguyen014,Linhtran87,0000-00-00
+Dung Nhi,0865648788,ketoandungnhi@gmail.com,24197015080,2023-03-17,Cục Cảnh Sát,Female,Master,Active,0865648788,0975531979,1997-07-06
+Bùi Phương Thuỷ,0984704733,buiphuongthuy86@gmail.com,31186002077,2024-12-25,Cục cảnh sát,Female,Master,Active,Buiphuongthuy,Buidaoanh,1986-05-08
+Đào Thảo Minh,0949225522,Thaominh2255@gmail.com,37193014328,2024-05-14,Cuc trưởng cục cảnh sát quản lý hành chính về trật...,NULL,Master,Active,Minhminh1993,0363601350,0000-00-00
+Lưu Thị Phương Thảo,0933885622,thaoltp23.6@gmail.com,NULL,NULL,NULL,Female,Master,Active,0933885622,DieuLinh87,1989-06-23
+Lê Khánh Đan,0964854007,iamlekhanhdan@gmail.com,40303005368,2003-07-24,Cục Cảnh Sát Quản Lý Hành Về Trận Tự Xã Hội,Female,Master,Inactive,lekhanhdan,nguyenlanvy,0000-00-00
+Phạm Thị Vân Anh,0986865555,Anhpham110088@gmail.com,1191005443,2022-09-04,CTCS,null,Master,Active,0986865555,CS01,1991-08-10
+Nguyễn Thị Khánh Sang,0935550155,kasang7879@gmail.com,56187001369,2021-04-16,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,NULL,Master,Active,Kasang,Bichbong,0000-00-00
+Nguyễn Ánh Dương,0799796721,Duongduong1470@gmail.com,58300007407,2025-11-27,CTCCS,NULL,Master,Active,0799796721,CS01,0000-00-00
+Phung Thi Bich Hang,0971259979,dunghang7989@icloud.com,1189022640,2021-07-10,Cuc Canh Sat,NULL,Master,Active,0971259979,Nguyen Thi Tam,0000-00-00
+Dương Mạn Ngọc,0901796888,duongmanngoc@gmail.com,1196018238,2021-04-25,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,Female,Master,Active,0901796888,0568568558,1996-08-27
+Lê Thị Hảo,0918080892,Tnt.pharmar@gmail.com,38192001032,NULL,Bộ Công An,NULL,Pharmer,Active,Haohao,PharmesHub,0000-00-00
+Đào Thị Tường Vi,0352700832,vivi22425@gmail.com,52306006304,2021-06-12,NULL,null,Master,Active,tuongvi,90sskin,0000-00-00
+THẨM MỸ KHƠ THỊ,0785903281,nguyetmt@khothihospital.com,NULL,NULL,NULL,NULL,Master,Active,0785903281,CS01,0000-00-00
+NGUYỄN THỊ HƯƠNG,0838986403,nguyenthihuong97.vn@gmail.com,44197011056,1997-02-11,"Cục trưởng cục cảnh sát, quản lý hành chính về trậ...",Female,Master,Active,Nguyenthihuong97,Phanthuyhang87,1997-12-10
+Quách Nguyễn Thiên Trang,0372260122,trangquachkth@gmail.com,22195005896,2022-07-21,Cục QLHC&TTXH,Female,Master,Active,0372260122,CS01,1995-12-01
+Nguyễn Thị Tú Uyên,0932573776,123456@gmail.com,NULL,NULL,NULL,NULL,Master,Active,0932573776,CS01,0000-00-00
+Nguyễn Thị Thu Thủy,0986753993,Thuthuy01@gmail.com,1190051419,1990-05-15,Cục Cảnh sát QLHC về TTXH,NULL,Master,Active,0986753993,0975531979,0000-00-00
+Nguyễn Thị Kim Oanh,0973453867,Oanhspa146@gmail.com,42193013213,1993-12-06,Nghệ An,NULL,Master,Active,SpaKimOanh,HuyenPham,0000-00-00
+Hà Mai Anh,0915552689,maianh260289@gmail.com,1189010617,2021-09-21,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,NULL,Master,Active,0915552689,0568568558,0000-00-00
+Phạm Minh Nhật,0822132332,mn3509457@gmail.com,75202000796,2002-03-03,asd,NULL,Master,Active,asd,qwe,0000-00-00
+Nguyễn Văn Tuyến,0975208836,nvtuyen1993@gmail.com,1093022973,2022-10-04,Cục trưởng cục cảnh sát quản lý hành chính về trật...,NULL,Master,Active,0975208836,Nguyen Thi Tam,0000-00-00
+Bùi thị ngọc,0976120594,buingoc120594@gmail.com,NULL,NULL,NULL,NULL,Master,Active,Anbeautyroom,CS01,0000-00-00
+Hoàng Thị Xoan,0931363510,xinh.moan@gmail.com,40187020080,1987-04-24,CA Nghệ An,NULL,Master,Active,SpaDiepXoan,Huyenpham,0000-00-00
+Nguyễn Thị Ngọc Tú,0943471991,tulabskint28@gmail.com,NULL,NULL,NULL,Female,Master,Active,0943471991,CS01,0000-00-00
+Trương Thị Sáu,0975994728,sautruong019@gmail.com,27193012115,NULL,Cục trưởng cục cảnh sát quản lý hành chính về trật...,NULL,Master,Active,Sautruong,Quynhnghi,0000-00-00
+Phạm Hồng Thuỷ,0888486663,phamhongthuy11984@gmail.com,82184015764,2022-08-26,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,NULL,Master,Active,Thuypham6336,Bichbong,0000-00-00
+Nguyễn Thị Vân,0947628345,nomail@yopmail.com,NULL,2021-08-27,Cục trưởng cục cảnh sát quản lý hành chính về trật...,Female,Master,Active,0947628345,CS01,1988-03-15
+Vũ Hoài Thương,0903397387,Vuhoaithuong87t@gmail.com,93187000262,1987-08-27,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,NULL,Master,Active,Thuongbeauty,Songsong,0000-00-00
+Nguyễn Thị Bảo Anh,0343280947,baoanhnguyenthi81@gmail.com,1304004479,2021-04-19,ccccsqlhcvttxh,NULL,Master,Active,0343280947,0886392168,0000-00-00
+Lê Thị Hoàn,0975282862,Khanhhoan0387@gmail.com,19187014906,1987-03-19,Cục Quản Lý Hành chính trật tự xã hội,NULL,Master,Active,LeThiHoan87,DoThanhXuanPharmes,0000-00-00
+Hoàng Văn Sơn,0865928788,hvson5011@gmail.com,24095014577,2023-02-04,Cục Cảnh sát QLHC về TTXH,Male,Master,Active,0865928788,0865648788,1995-04-17
+Nguyễn Văn Lợi,0938426642,tienloinguyen77@gmail.com,40077007741,1977-10-11,Cục quản lý hành chính trật tự xã hội,NULL,Master,Active,TienLoi,DieuLinh87,0000-00-00
+Mai Thu Hà,420720180875,m.thuha93@gmail.com,NULL,NULL,NULL,Female,Master,Active,420720180875,CS01,1993-10-31
+Nguyễn Thị Thuỷ,0902893308,Ngthuyld@gmail.com,33180005024,NULL,Cục quan ly hành chính,NULL,Pharmer Seller,Active,Nguyenthuybrvt,camnhungvt,0000-00-00
+Phùng Thị Hải,0989057994,phungthihai20081994@gmail.com,1194039734,2021-05-14,Cục cảnh sát,NULL,Master,Active,0989057994,0971259979,0000-00-00
+Đoàn thị vượng,0911985555,doanthivuong22222@gmail.com,1189001548,2019-05-21,Cục cs hà nôi,Female,Pharmer,Active,0911985555,Oanhdiudang123,1989-11-05
+Phan Kim Chi,0394869168,kimchibeautyspa@gmail.com,1189016720,2021-04-10,Cục cảnh sát,Female,Master,Active,KimChiBeauty,Nhungspa,1989-01-18
+Đoàn Trà Mi,0978303132,tramydoan94@gmail.com,96191003466,2021-07-02,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,NULL,Master,Active,Doantrami2222,Bichbong,0000-00-00
+NGUYỄN HUỆ,0981919488,namchausupply.info@gmail.com,NULL,NULL,NULL,NULL,Master,Active,NGUYENHUE,KCM,0000-00-00
+Lê Yên Thư,0938661818,leyenthu.lin@gmail.com,38194003400,2022-08-09,Cục cảnh sát Quản lý hành chính về trật tự xã hội,NULL,Master,Active,0938661818,Trần Ngọc Anh,0000-00-00
+Le Thi Viet Ha,096418996,thovi.vn@gmail.com,30199002670,1999-06-20,Cuc canh sat,NULL,Master,Active,VietHa,Dieulinh87,0000-00-00
+Hoàng thủy beauty &spa,038191007326,Hthuy4597@gmail.com,38191007326,2023-12-23,Cục trưởng cục cảnh sát và trật tự xã hội,Female,Master,Active,038191007326,CS01,1991-07-09
+TRẦN NGỌC YẾN NHI,0565060736,ynhitran0912@gmail.com,80302005558,2021-05-31,CTCCS,null,Master,Active,0565060736,CS01,0000-00-00
+NGUYỄN HẢI ĐĂNG,0941432888,nguyenhaidang2910@gmail.com,1091047962,2022-03-18,CTCCS,NULL,Master,Active,0941432888,0372260122,0000-00-00
+Đặng Công Lâm,0982992631,lam7061@gmail.com,34091003284,1991-06-17,Cục Cảnh Sát,NULL,Master,Active,DangLam,Phuongtrang,0000-00-00
+CÔNG TY TNHH DỊCH VỤ VÀ THƯƠNG MẠI ĐĂNG PHÚC,0975456515,nhanhoadondp@gmail.com,110551329,2023-11-23,Phòng đăng ký kinh doanh,NULL,Master,Active,THUONGMAIDANGPHUC,0975531979,0000-00-00
+Tôn Nữ Thu Trang,0932042504,Trangton2@gmai.com,58192002577,2022-03-27,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,NULL,Master,Active,Thutrang0440,Bichbong,0000-00-00
+Lê Phương Thảo,0943661993,phuongthaothao.151293@gmail.com,1193029873,NULL,Bộ công an,NULL,Master,Active,Thaolee,PharmesHub,0000-00-00
+LÊ THỊ HỒNG NHI,0948773999,lethihongnhi92@gmail.com,42192004543,2022-08-23,CTCCS,NULL,Master,Active,0948773999,CS01,0000-00-00
+Huỳnh Thị Thu Huyền,0396754572,Huynhhien850@gmail.com,54195007151,NULL,Công An,NULL,Master,Active,huynhthithuhuyen,90sskin,0000-00-00
+Vũ Thị Thuỳ Dương,0966198893,duongcoldly351998@gmail.com,1198010959,2022-08-04,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,Female,Master,Active,0966198893,0568568558,1998-05-03
+VŨ MINH QUÂN,0833861910,congtyminhtrung.vn@gmail.com,1090053000,NULL,CTCCS,NULL,Master,Active,minhquan1990,CS01,0000-00-00
+Nguyễn Hải Diệp,0982468181,Haidiepnguyen1992@gmail.com,2191000903,NULL,Cục trưởng cục cảnh xác,NULL,Master,Active,Nguyenhaidiep,90sskin,0000-00-00
+LÊ THỊ HỒNG NHUNG,0865315686,hongnhungbacon@gmail.com,25187001336,2022-09-28,CTCCS,NULL,Master,Active,0865315686,CS01,0000-00-00
+Đoàn Thị Vượng,0911985555.,doanthivuong2222@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0911985555.,CS01,0000-00-00
+Phạm Thắm,0828926888,thambeautySpa1992@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,0828926888,phamngocmai,0000-00-00
+Nguyễn Thị Hồng Nhi,0772279789,anhquanmkt88@gmail.com,NULL,NULL,NULL,NULL,Master,Active,0772279789,CS01,0000-00-00
+Dr. Tú Anh,0979757174,tubieng198@gmail.com,NULL,NULL,NULL,NULL,Master,Active,0979757174,CS01,0000-00-00
+Huỳnh Thị Nguyễn Loan,0909698337,hloan8577@gmail.com,72182002301,1982-11-27,Cục cảnh sát quản lý hành chính trật tự xã hội,NULL,Master,Active,huynhthinguyenloan,huynhthingocthao,0000-00-00
+Trần Thị Kiều Oanh,0399918757,No57beauty6786@gmail.com,7005347,2023-09-20,NULL,NULL,Master,Active,tranthioanhkieu,90sskin,0000-00-00
+Trần Thị Trang,0844528999,trantrang2989@gmail.com,844528999,1990-08-24,CA Điện Biên,NULL,Master,Active,SpaTranTrang,Huyenpham,0000-00-00
+Lê Nguyên Tú,0977353992,lamtra.lhmediskin@gmail.com,40087015222,1987-08-27,Ca Nghệ An,NULL,Master,Active,SpaLamTraLHMediskin,Huyenpham,0000-00-00
+Phạm Thị Hương,0983693565,phamhuong030591@gmail.com,42191005977,2021-06-28,CỤC TRƯỞNG CỤC CẢNH SÁT QUẢN LÝ HÀNH CHÍNH VỀ TRẬT...,NULL,Master,Active,0983693565,0568568558,0000-00-00
+Trương Thị Hồng Điệp,0398538307,truonghongdiep1994@gmail.com,NULL,NULL,NULL,NULL,Master,Active,0398538307,0565060736,0000-00-00
+Nguyễn Diệu Quỳnh,0981380333,quynhsumon38@gmail.com,19196010269,NULL,Cục Trưởng Cục Cảnh Sát Quản Lý Hành Chính Về Trật...,null,Master,Active,Quynhsumon,PharmesHub,0000-00-00
+Nguyễn Phạm Tường Vân,0794063979,tuongvan28081991@gmail.com,NULL,NULL,NULL,NULL,Pharmer,Active,tuongvan91,trangbong,0000-00-00
+Hồng Thị Thu Trang,0918478998,Thuanhhoang95@gmail.com,38193042409,2025-04-02,Bộ Công An THanh Hóa,NULL,Master,Active,Linhtrangspa,CS01,0000-00-00

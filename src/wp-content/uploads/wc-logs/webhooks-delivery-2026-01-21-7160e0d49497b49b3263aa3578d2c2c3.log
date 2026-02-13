@@ -1,0 +1,110 @@
+2026-01-21T04:47:12+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => f535a692c4cf54b2b3448a8b3ff2b812
+            [Date] => Th1 21, 2026 @ 4:47
+            [URL] => https://pos.pages.fm/api/v1/woocommerce/update
+            [Duration] => 1.33271
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.0.5 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://givehada.cloud/
+                            [X-WC-Webhook-Topic] => order.created
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => created
+                            [X-WC-Webhook-Signature] => kaj47ByEBMFj7qyKvNlVfEWv5BA1ivhi9UkT0+4M02I=
+                            [X-WC-Webhook-ID] => 1
+                            [X-WC-Webhook-Delivery-ID] => f535a692c4cf54b2b3448a8b3ff2b812
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx/1.18.0
+                                    [date] => Wed, 21 Jan 2026 04:47:12 GMT
+                                    [content-type] => application/json; charset=utf-8
+                                    [content-length] => 16
+                                    [access-control-allow-credentials] => true
+                                    [access-control-allow-origin] => *
+                                    [access-control-expose-headers] => 
+                                    [cache-control] => max-age=0, private, must-revalidate
+                                    [x-request-id] => GIylmZ89R_9PmPgAkr_L
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)
+2026-01-21T04:47:18+00:00 INFO Array
+(
+    [Webhook Delivery] => Array
+        (
+            [Delivery ID] => d61bd6bb33361f2ff415732afcc195c9
+            [Date] => Th1 21, 2026 @ 4:47
+            [URL] => https://pos.pages.fm/api/v1/woocommerce/update
+            [Duration] => 5.18452
+            [Request] => Array
+                (
+                    [Method] => POST
+                    [Headers] => Array
+                        (
+                            [User-Agent] => WooCommerce/10.0.5 Hookshot (WordPress/6.9)
+                            [Content-Type] => application/json
+                            [X-WC-Webhook-Source] => https://givehada.cloud/
+                            [X-WC-Webhook-Topic] => order.updated
+                            [X-WC-Webhook-Resource] => order
+                            [X-WC-Webhook-Event] => updated
+                            [X-WC-Webhook-Signature] => M9pvCMfcr7qaccRMLwFL7x8Z1HfBBatWKVcU8S1JesM=
+                            [X-WC-Webhook-ID] => 2
+                            [X-WC-Webhook-Delivery-ID] => d61bd6bb33361f2ff415732afcc195c9
+                        )
+
+                )
+
+            [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+            [Response] => Array
+                (
+                    [Code] => 200
+                    [Message] => OK
+                    [Headers] => WpOrg\Requests\Utility\CaseInsensitiveDictionary Object
+                        (
+                            [data:protected] => Array
+                                (
+                                    [server] => nginx/1.18.0
+                                    [date] => Wed, 21 Jan 2026 04:47:18 GMT
+                                    [content-type] => application/json; charset=utf-8
+                                    [content-length] => 16
+                                    [access-control-allow-credentials] => true
+                                    [access-control-allow-origin] => *
+                                    [access-control-expose-headers] => 
+                                    [cache-control] => max-age=0, private, must-revalidate
+                                    [x-request-id] => GIylmtkJRD3YuLEA1yrB
+                                    [x-frame-options] => SAMEORIGIN
+                                )
+
+                        )
+
+                    [Body] => Webhook body is not logged unless WP_DEBUG mode is turned on. This is to avoid the storing of personal data in the logs.
+                )
+
+        )
+
+)

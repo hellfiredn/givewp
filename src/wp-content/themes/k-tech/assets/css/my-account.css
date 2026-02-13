@@ -1,0 +1,39 @@
+#main .my-account {
+  padding-top: 0;
+}
+
+.title_account_page {
+  font-size: 27px;
+  margin: 60px 0;
+}
+
+#wrapper .woocommerce-MyAccount-content input[readonly] {
+  background-color: #bbbbbb38;
+  border-color: #bbbbbb38;
+}
+
+#main #kam_refund_order tr td {
+  border-left: 0;
+  border-right: 0;
+}
+
+@media (max-width: 1199px) {
+  #main .my-account {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .title_account_page {
+    font-size: 20px;
+    margin: 38px 0;
+  }
+}
+
+@media (max-width: 809px) {
+  #main .my-account {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .title_account_page {
+    margin: 25px 0;
+  }
+}

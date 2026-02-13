@@ -1,0 +1,73 @@
+@font-face {
+    font-family: "Gilroy Black";
+    src: url("../fonts/SVN-GilroyBlack.ttf")format("truetype");
+}
+
+@font-face {
+    font-family: "Gilroy Bold";
+    src: url("../fonts/SVN-GilroyBold.ttf")format("truetype");
+}
+
+@font-face {
+    font-family: "Gilro Heavy";
+    src: url("../fonts/SVN-GilroyHeavy.ttf")format("truetype");
+}
+
+@font-face {
+    font-family: "Gilroy Italic";
+    src: url("../fonts/SVN-GilroyItalic.ttf")format("truetype");
+}
+
+@font-face {
+    font-family: "Gilroy Light";
+    src: url("../fonts/SVN-GilroyLight.ttf")format("truetype");
+}
+
+@font-face {
+    font-family: "Gilroy medium";
+    src: url("../fonts/SVN-GilroyMedium.ttf")format("truetype");
+}
+
+@font-face {
+    font-family: "Gilroy";
+    src: url("../fonts/SVN-Gilroy.ttf")format("truetype");
+}
+
+@font-face {
+    font-family: "Gilroy Thin";
+    src: url("../fonts/SVN-GilroyThin.ttf")format("truetype");
+}
+
+@font-face {
+    font-family: "Gilroy Semibold";
+    src: url("../fonts/SVN-GilroySemiBold.ttf")format("truetype");
+}
+
+body {
+    font-family: "Gilroy", sans-serif;
+}
+
+
+.wrapper iframe {
+    border-radius: 16px;
+    overflow: hidden;
+}
+
+
+.category-page-title {
+    display: none;
+}
+
+
+/*Form*/
+
+.wpcf7-not-valid-tip,
+.wpcf7-spinner,
+.wpcf7-response-output {
+    display: none;
+}
+
+.wpcf7-form {
+    margin-bottom: 0;
+}
+

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="61" height="61" viewBox="0 0 61 61">
+    <rect width="61" height="61" rx="10" fill="#fff"/>
+    <g id="user-add-svgrepo-com" transform="translate(12.895 11.904)">
+        <path d="M5,12.268a7.268,7.268,0,1,1,7.268,7.268A7.268,7.268,0,0,1,5,12.268Z" transform="translate(2.941 2.941)" fill="#ff5f5f" fill-rule="evenodd"/>
+        <path d="M6.262,16.129A20.236,20.236,0,0,1,14.109,15a20.218,20.218,0,0,1,7.853,1.132,7.2,7.2,0,0,1,4.178,4.817,1.646,1.646,0,0,1-1.575,2.126H3.656a1.649,1.649,0,0,1-1.577-2.13A7.2,7.2,0,0,1,6.262,16.129Z" transform="translate(1.099 9.092)" fill="#ff5f5f" fill-rule="evenodd"/>
+    </g>
+    <rect width="12" height="3" rx="1.5" transform="translate(37 20)" fill="#ff5f5f" stroke="#ff5f5f" stroke-width="0.2"/>
+</svg>

@@ -1,0 +1,18 @@
+/* vietnamese */
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url(../fonts/Montserrat-Light.woff2) format('woff2');
+}
+
+
+@for $i from 100 through 900 {
+  @if $i % 100==0 {
+    .fw-#{$i} {
+      font-weight: $i !important;
+    }
+  }
+}

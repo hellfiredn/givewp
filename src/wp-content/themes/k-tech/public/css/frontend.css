@@ -1,0 +1,449 @@
+/*Header*/
+
+.swiper-button-next, .swiper-button-prev {
+    color: #fff !important;
+    font-size: 10px !important;
+}
+
+.swiper-button-next:after, .swiper-button-prev:after {
+    font-size: 16px !important;
+}
+
+
+
+.header-nav li {
+    margin: 0 15px !important;
+}
+
+
+.header-nav .icon-search:hover, .header-nav .icon-user:hover, .header-nav .icon-shopping-cart:hover, .nav-icon .icon-menu:hover {
+    color: var(--fs-color-secondary);
+}
+
+.header-nav .icon-search, .header-nav .icon-user, .header-nav .icon-shopping-cart, .nav-icon .icon-menu {
+    font-size: 25px !important;
+    color: #fff;
+}
+
+.header-bottom .nav .menu-item .sub-menu {
+    background: var(--primary-color);
+    padding: 5px;
+    min-width: max-content;
+    /* max-width: max-content; */
+    /* gap: 70px; */
+    /* display: flex; */
+}
+
+.header-bottom .nav .menu-item .sub-menu .menu-item {
+    display: inline-block;
+}
+
+.header-bottom .nav .menu-item .sub-menu .menu-item a {
+    font-size: 15px;
+    color: #fff;
+    font-weight: 600;
+}
+
+
+.header-bottom .nav .menu-item .sub-menu .menu-item a:hover {
+    color: var(--fs-color-secondary);
+}
+
+.box-text .product-title {
+    text-align: center;
+}
+
+.box-text .product-title a {
+    font-size: 26px;
+    color: #000;
+    font-weight: 500;
+}
+
+
+
+ 
+
+
+
+/*Trang chủ*/
+.home-product .product-small .box .box-image {
+    border-radius: 0 0 20px 20px;
+    overflow: hidden;
+}
+
+
+/*FAQ*/
+
+.list-faq .accordion-item .toggle {
+    order: 2;
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.list-faq .accordion-item .accordion-title {
+    padding: 26px 30px;
+    border-color: #000;
+}
+
+.list-faq .accordion-item .accordion-title .icon-angle-down {
+    font-size: 40px;
+    line-height: 1;
+    margin: 0;
+}
+
+.list-faq .accordion-item .accordion-title span {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+@media (max-width: 1199px) {
+    .list-faq .accordion-item .accordion-title {
+        padding: 15px 24px;
+    }
+    .list-faq .accordion-item .accordion-title span {
+        font-size: 16px;
+    }
+    .list-faq .accordion-item .accordion-title .icon-angle-down {
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 390px) {
+    .list-faq .accordion-item .accordion-title span {
+        font-size: 12px;
+    }
+}
+
+.list-faq .accordion-item .accordion-inner {
+    padding-left: 20px;
+}
+
+.list-faq .accordion-item .accordion-title.active {
+    background: transparent;
+}
+
+
+/*Chính sách*/
+
+.custom-child-pages-list {
+    border-top: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+.child-page-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 28px 30px;
+    border-bottom: 1px solid #ccc;
+}
+
+.child-page-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #000;
+}
+
+.child-page-title:hover {
+    color: var(--fs-color-secondary);
+}
+
+.child-page-date {
+    color: #888;
+    font-size: 18px;
+}
+
+@media (max-width: 1199px) {
+    .child-page-title {
+        font-size: 16px;
+    }
+    .child-page-item {
+        padding: 15px 10px;
+    }
+}
+
+
+/*Đăng nhập*/
+
+.layout-account {
+    display: flex;
+    margin: 0 auto;
+    width: 60%;
+}
+
+.layout-account .account-login-inner {
+    width: 100%;
+}
+
+.layout-account .account-login-inner h3 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.layout-account .woocommerce-form .woocommerce-Input {
+    
+    border: none;
+    border-bottom: 2px solid #000;
+    box-shadow: none;
+}
+
+.layout-account .woocommerce-button {
+    width: 100%;
+    padding: 10px;
+}
+
+.layout-account .woocommerce-button:hover {
+    border: 1px solid var(--primary-color);
+    background: #fff;
+    box-shadow: none;
+    color: var(--primary-color);
+}
+
+.layout-account .woocommerce-LostPassword {
+    text-align: center;
+}
+
+.layout-account .register-link {
+
+    display: block;
+    color: var(--primary-color);
+    border: 1px solid var(--primary-color);
+    text-align: center;
+    width: 100%;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+
+
+
+.form-register .form-group {
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-register label {
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 5px;
+}
+
+.form-register input[type="text"],
+.form-register input[type="email"],
+.form-register input[type="password"],
+.form-register input[type="tel"] {
+    padding: 25px 15px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: none;
+}
+
+.form-register input::placeholder {
+    color: #888;
+    font-size: 14px;
+}
+
+.form-register .checkbox {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+
+.form-register .checkbox input {
+    margin-right: 8px;
+}
+
+.form-register .submit-btn {
+    width: 100%;
+    background-color: var(--primary-color);
+    color: #fff;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s;
+    border: 1px solid var(--primary-color);
+}
+
+.form-register .submit-btn:hover {
+    background-color: #fff;
+    color: var(--primary-color);
+}
+
+/*Bảng xếp hạng Master*/
+.bxh-wrapper {
+    margin: 0 auto;
+    min-height: 500px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.bxh-tabs {
+    display: flex;
+    border-bottom: 3px solid var(--primary-color);
+}
+
+.bxh-tab {
+    font-size: 27px;
+    line-height: 1;
+    color: var(--primary-color);
+    flex: 1;
+    padding: 23px 0;
+    font-weight: 500;
+    text-transform: none;
+    cursor: pointer;
+    border-bottom: 3px solid transparent;
+    transition: all 0.3s ease;
+    margin: 0;
+}
+
+@media (max-width: 809px) {
+    .bxh-tab {
+        font-size: 20px;
+        padding: 8px 0;
+    }
+}
+
+.bxh-tab.active {
+    color: #fff;
+    background: var(--primary-color);
+}
+
+.bxh-controls {
+    display: flex;
+    gap: 10px;
+    margin: 50px 0;
+    justify-content: space-between;
+}
+
+.bxh-controls button {
+    font-size: 20px;
+    padding: 6px 12px;
+    background: var(--primary-color);
+    color: #fff;
+    border: none;
+    font-weight: 500;
+    cursor: default;
+    margin: 0;
+    min-width: 250px;
+    text-transform: none;
+}
+
+.bxh-content {
+    display: none;
+}
+
+.bxh-wrapper .bxh-content.active {
+    display: flex;
+}
+
+.bxh-wrapper .bxh-content {
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 0 auto;
+}
+
+.bxh-wrapper .bxh-content#tab-tong {
+    margin-top: 50px;
+}
+
+.bxh-item {
+    font-size: 24px;
+    padding: 15px;
+    color: #000;
+    border: 1px solid #222C40;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 45px;
+    width: 100%;
+}
+
+.bxh-item span {
+    width: 26px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.bxh-item.top3 {
+    background: var(--primary-color);
+    color: #fff;
+}
+
+
+@media (max-width: 1199px) {
+    .bxh-controls {
+        margin: 30px 0;
+    }
+    .bxh-content.active#tab-tong {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 809px) {
+    .bxh-controls button {
+        min-width: 150px;
+        font-size: 10px;
+        padding: 9px 0;
+    }
+}
+
+
+
+
+/*Sản phẩm*/
+
+.products .product-small .box .box-image {
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.products .product-small .box .box-text .title-wrapper .category {
+    font-size: 12px;
+    color: #8C8C8C;
+}
+
+.products .product-small .box .box-text .product-title a {
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.products .product-small .box .box-text .price-wrapper {
+    margin-top: 15px;
+}
+
+.products .product-small .box .box-text .price-wrapper .woocommerce-Price-amount {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+.product-images img {
+    border-radius: 40px;
+    overflow: hidden;
+}
+
+
+.product-thumbnails .flickity-slider .col a {
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.product-txt {
+    margin-top: 20px;
+}
+
+.product-txt .sub-txt {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+#wrapper .ux-cart-coupon {
+    display: none;
+}
