@@ -88,46 +88,6 @@ function save_extra_account_fields( $user_id ) {
     if ( ! get_user_meta( $user_id, 'product_link', true ) ) {
         update_user_meta( $user_id, 'product_link', home_url( '/shop/customer/' . $user_id ) );
     }
-
-    if ( isset( $_POST['spa_name'] ) ) {
-        update_user_meta( $user_id, 'spa_name', sanitize_text_field( $_POST['spa_name'] ) );
-    }
-
-    if ( isset( $_POST['spa_address'] ) ) {
-        update_user_meta( $user_id, 'spa_address', sanitize_text_field( $_POST['spa_address'] ) );
-    }
-    
-    if ( isset( $_POST['passport_cccd'] ) ) {
-        update_user_meta( $user_id, 'passport_cccd', sanitize_text_field( $_POST['passport_cccd'] ) );
-    }
-
-    if ( isset( $_POST['date_issue'] ) ) {
-        update_user_meta( $user_id, 'date_issue', sanitize_text_field( $_POST['date_issue'] ) );
-    }
-
-    if ( isset( $_POST['date_issue'] ) ) {
-        update_user_meta( $user_id, 'date_issue', sanitize_text_field( $_POST['date_issue'] ) );
-    }
-
-    if ( isset( $_POST['card_local'] ) ) {
-        update_user_meta( $user_id, 'card_local', sanitize_text_field( $_POST['card_local'] ) );
-    }
-
-    // ===== Upload files -> save attachment ID =====
-    $file_fields = [
-        'cccd_front' => 'cccd_front_id',
-        'cccd_back'  => 'cccd_back_id',
-        'gpkd'       => 'gpkd_id',
-    ];
-
-    foreach ( $file_fields as $file_input_name => $meta_key ) {
-        $attach_id = givehada_handle_user_file_upload( $file_input_name, $user_id );
-
-        // Nếu có upload thành công thì lưu ID
-        if ( $attach_id && ! is_wp_error( $attach_id ) ) {
-            update_user_meta( $user_id, $meta_key, (int) $attach_id );
-        }
-    }
 }
 add_filter( 'woocommerce_save_account_details_required_fields', function( $required_fields ) {
     unset( $required_fields['account_first_name'] );
@@ -137,84 +97,7 @@ add_filter( 'woocommerce_save_account_details_required_fields', function( $requi
     return $required_fields;
 });
 
-/**
- * Upload file từ input name -> tạo attachment -> trả về attachment ID
- */
-function givehada_handle_user_file_upload( $file_input_name, $user_id ) {
 
-    if ( empty( $_FILES[ $file_input_name ] ) || empty( $_FILES[ $file_input_name ]['name'] ) ) {
-        return 0; // không upload
-    }
-
-    // Chỉ cho user đã đăng nhập upload cho chính họ (chặn gọi bậy)
-    if ( (int) $user_id !== get_current_user_id() ) {
-        return 0;
-    }
-
-    // Validate lỗi upload
-    if ( ! empty( $_FILES[ $file_input_name ]['error'] ) ) {
-        return 0;
-    }
-
-    // Giới hạn loại file (ảnh + pdf)
-    $allowed_mimes = [
-        'jpg|jpeg|jpe' => 'image/jpeg',
-        'png'          => 'image/png',
-        'webp'         => 'image/webp',
-        'pdf'          => 'application/pdf',
-    ];
-
-    $file = $_FILES[ $file_input_name ];
-
-    // Kiểm tra mime/extension theo WP
-    $check = wp_check_filetype_and_ext( $file['tmp_name'], $file['name'], $allowed_mimes );
-    if ( empty( $check['ext'] ) || empty( $check['type'] ) ) {
-        return 0;
-    }
-
-    // Chuẩn bị libs upload
-    if ( ! function_exists( 'wp_handle_upload' ) ) {
-        require_once ABSPATH . 'wp-admin/includes/file.php';
-    }
-    if ( ! function_exists( 'wp_generate_attachment_metadata' ) ) {
-        require_once ABSPATH . 'wp-admin/includes/image.php';
-    }
-    require_once ABSPATH . 'wp-admin/includes/media.php';
-
-    // Upload vào uploads
-    $overrides = [ 'test_form' => false ];
-    $uploaded  = wp_handle_upload( $file, $overrides );
-
-    if ( isset( $uploaded['error'] ) ) {
-        return 0;
-    }
-
-    $file_path = $uploaded['file'];
-    $file_url  = $uploaded['url'];
-    $mime_type = $uploaded['type'];
-
-    // Tạo attachment
-    $attachment = [
-        'post_mime_type' => $mime_type,
-        'post_title'     => sanitize_file_name( pathinfo( $file['name'], PATHINFO_FILENAME ) ),
-        'post_content'   => '',
-        'post_status'    => 'inherit',
-        'post_author'    => $user_id,
-        'guid'           => $file_url,
-    ];
-
-    $attach_id = wp_insert_attachment( $attachment, $file_path );
-
-    if ( is_wp_error( $attach_id ) ) {
-        return 0;
-    }
-
-    // Generate metadata (ảnh sẽ có thumb)
-    $attach_data = wp_generate_attachment_metadata( $attach_id, $file_path );
-    wp_update_attachment_metadata( $attach_id, $attach_data );
-
-    return (int) $attach_id;
-}
 //cms
 
 // Hiển thị field custom trong admin
@@ -266,18 +149,23 @@ function my_custom_user_fields( $user ) {
                 <input type="text" name="custom_email" id="custom_email" value="<?php echo esc_attr( get_user_meta( $user->ID, 'custom_email', true ) ); ?>" class="regular-text" />
             </td>
         </tr>
-        <tr>
-            <th><label>Link giới thiệu</label></th>
-            <td>
-                <input type="text" readonly value="<?php echo esc_attr( get_user_meta( $user->ID, 'custom_ref_link', true ) ); ?>" class="regular-text" />
-            </td>
-        </tr>
-        <tr>
-            <th><label>Link sản phẩm</label></th>
-            <td>
-                <input type="text" readonly value="<?php echo esc_attr( get_user_meta( $user->ID, 'custom_product_link', true ) ); ?>" class="regular-text" />
-            </td>
-        </tr>
+        <?php
+        $roles = (array) $user->roles;
+        if (in_array('master', $roles) || in_array('pharmer_seller', $roles)) :
+        ?>
+            <tr>
+                <th><label>Link giới thiệu</label></th>
+                <td>
+                    <input type="text" readonly value="<?php echo esc_attr( get_user_meta( $user->ID, 'custom_ref_link', true ) ); ?>" class="regular-text" />
+                </td>
+            </tr>
+            <tr>
+                <th><label>Link sản phẩm</label></th>
+                <td>
+                    <input type="text" readonly value="<?php echo esc_attr( get_user_meta( $user->ID, 'custom_product_link', true ) ); ?>" class="regular-text" />
+                </td>
+            </tr>
+        <?php endif; ?>
     </table>
 
     <h3>Thông tin tài khoản ngân hàng</h3>
@@ -394,12 +282,13 @@ function my_save_custom_user_fields( $user_id ) {
 
     $fields = [
         // Thông tin cá nhân
-        'user_fullname'  => 'text',
-        'user_gender'     => 'text',
-        'user_birthday'   => 'text',
-        'user_phone'      => 'text',
-        'user_ref_link'   => 'url',
-        'user_product_link' => 'url',
+        'custom_full_name'  => 'text',
+        'custom_gender'     => 'text',
+        'custom_birthday'   => 'text',
+        'custom_phone'      => 'text',
+        'custom_email'      => 'text',
+        'custom_ref_link'   => 'url',
+        'custom_product_link' => 'url',
 
         // Thông tin ngân hàng
         'bank_account_name'   => 'text',

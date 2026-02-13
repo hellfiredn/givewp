@@ -19,7 +19,7 @@ class KAM_Affiliate_Membership {
         add_action('woocommerce_checkout_create_order', [$this, 'save_total_discount_to_order'], 10, 2);
         add_action('template_redirect', [$this, 'check_product_avaliable_with_role_page']);
         add_filter('woocommerce_product_is_visible', [$this, 'check_product_avaliable_with_role_query'], 10, 2);
-        // add_action('pre_get_posts', [$this, 'filter_products_by_role_in_query']);
+        add_action('pre_get_posts', [$this, 'filter_products_by_role_in_query']);
         add_filter('flatsome_ajax_search_products_args', [$this, 'filter_products_by_role_in_args'], 10, 2);
         // path /wp-content/themes/flatsome/inc/extensions/flatsome-live-search
         
@@ -411,7 +411,11 @@ class KAM_Affiliate_Membership {
                         $guest_percentage_indirect = $roles_setting[$guest_indirect_user_role]['commission_indirect'] / 100;
                         $guest_refund_indirect = round($amount_aff * $guest_percentage_indirect);
                         $guest_indirect_user_lp_config = $roles_setting[$guest_indirect_user_role]['lp'];
-                        $guest_indirect_lp_amount = round($amount_aff / $guest_indirect_user_lp_config);
+                        if ($guest_indirect_user_lp_config > 0) {
+                            $guest_indirect_lp_amount = round($amount_aff / $guest_indirect_user_lp_config);
+                        } else {
+                            $guest_indirect_lp_amount = 0;
+                        }
 
                         // Lưu doanh số gián tiếp
                         $db->insert([
